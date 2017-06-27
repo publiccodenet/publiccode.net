@@ -1,14 +1,27 @@
 html {
+  /* Imported Muli weights are 200, 400, 400i and 700 */
   font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
-  height: 100%;
+  color: black;
 }
 body {
+  margin: 0;
+}
+
+a, a:link {
+  color: inherit;
+}
+a:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+
+header {
+  position: relative;
   background: black;
   background-image: url('images/jindong-h-36186-small.jpg');
   background-size: cover;
   background-position: center;
+  min-height: 90vh;
 }
-
 header article {
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
@@ -16,7 +29,7 @@ header article {
   position: absolute;
   bottom: 0;
   padding: 2rem;
-  padding-bottom: 30vh;
+  padding-bottom: 25vh;
   margin-left: 10vw;
 }
 header h1 {
@@ -29,4 +42,8 @@ header h1 strong {
 }
 header p {
   margin-top: 0.5rem;
+}
+
+footer {
+  text-align: center;
 }

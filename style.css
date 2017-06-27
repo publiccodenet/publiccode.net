@@ -1,9 +1,22 @@
 html {
   font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
 }
+body {
+  background-image: url('images/jindong-h-36186.jpg');
+  background-size: cover;
+}
 h1 {
   font-weight: 200;
 }
 h1 strong {
   font-weight: 700;
+}
+article {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 20rem;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 30vh;
+  padding-left: 10vw;
 }

@@ -1,0 +1,9 @@
+html {
+  font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
+}
+h1 {
+  font-weight: 200;
+}
+h1 strong {
+  font-weight: 700;
+}

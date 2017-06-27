@@ -1,14 +1,20 @@
 html {
   /* Imported Muli weights are 200, 400, 400i and 700 */
   font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
+  font-size: 16px;
   color: black;
 }
 body {
   margin: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
 a, a:link {
   color: inherit;
+  font-style: italic;
 }
 a:hover {
   background-color: rgba(0,0,0,0.1);
@@ -20,20 +26,21 @@ header {
   background-image: url('images/jindong-h-36186-small.jpg');
   background-size: cover;
   background-position: center;
-  min-height: 90vh;
+  min-height: 85vh;
+  width: 100%;
 }
 header article {
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
-  max-width: 21rem;
+  max-width: 23em;
   position: absolute;
   bottom: 0;
-  padding: 2rem;
+  padding: 2em;
   padding-bottom: 25vh;
   margin-left: 10vw;
 }
 header h1 {
-  font-size: 2rem;
+  font-size: 3em;
   font-weight: 200;
   margin: 0;
 }
@@ -41,9 +48,27 @@ header h1 strong {
   font-weight: 700;
 }
 header p {
-  margin-top: 0.5rem;
+  margin-top: 0.5em;
+  font-size: 1.25em;
+}
+
+main {
+  box-sizing: border-box;
+  width: 50em;
+  max-width: 100vw;
+  padding: 2em;
+}
+main p, main li {
+  max-width: 35em;
+}
+
+main p.introduction {
+  font-size: 1.25em;
 }
 
 footer {
+  background-color: black;
+  color: #aaa;
   text-align: center;
+  width: 100%;
 }

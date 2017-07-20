@@ -3,10 +3,16 @@ html {
   height: 100%;
 }
 body {
+  margin: 0;
+}
+
+header {
   background: black;
   background-image: url('images/jindong-h-36186-small.jpg');
   background-size: cover;
   background-position: center;
+  height: 100vh;
+  position: relative;
 }
 
 header article {
@@ -29,4 +35,9 @@ header h1 strong {
 }
 header p {
   margin-top: 0.5rem;
+}
+
+footer {
+  padding: 1rem;
+  text-align: center;
 }

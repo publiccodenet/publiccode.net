@@ -85,3 +85,8 @@ footer {
   text-align: center;
   width: 100%;
 }
+
+footer {
+  padding: 1rem;
+  text-align: center;
+}

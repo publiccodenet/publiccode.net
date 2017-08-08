@@ -52,6 +52,10 @@ header p {
   font-size: 1.25em;
 }
 
+nav {
+  float: left;
+}
+
 main {
   box-sizing: border-box;
   width: 50em;

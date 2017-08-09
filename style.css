@@ -7,17 +7,24 @@ html {
 body {
   margin: 0;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: flex-start;
+  justify-content: center;
 }
 
 a, a:link {
   color: inherit;
   font-style: italic;
 }
+a[href*="//"] {
+  border-bottom: 1px solid;
+}
+a[href*="//"]a::before {
+  content: '☞ '
+}
 a:hover {
-  background-color: rgba(0,0,0,0.1);
+  opacity: 0.8;
 }
 
 header {
@@ -53,13 +60,17 @@ header p {
 }
 
 nav {
-  float: left;
+  padding: 2em;
+  max-width: 20em;
+}
+nav ul {
+  list-style: none;
 }
 
 main {
   box-sizing: border-box;
   width: 50em;
-  max-width: 100vw;
+  max-width: 80vw;
   padding: 4vw;
 }
 main p, main li {
@@ -84,8 +95,6 @@ main p.introduction {
 }
 
 footer {
-  /*background-color: black;*/
-  /*color: #aaa;*/
   text-align: center;
   width: 100%;
 }

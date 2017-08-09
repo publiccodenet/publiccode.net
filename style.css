@@ -1,32 +1,53 @@
 html {
+  /* Imported Muli weights are 200, 400, 400i and 700 */
   font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
-  height: 100%;
+  font-size: 16px;
+  color: black;
 }
 body {
   margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+a, a:link {
+  color: inherit;
+  font-style: italic;
+}
+a[href*="//"] {
+  border-bottom: 1px solid;
+}
+a[href*="//"]a::before {
+  content: '☞ '
+}
+a:hover {
+  opacity: 0.8;
 }
 
 header {
+  position: relative;
   background: black;
   background-image: url('images/jindong-h-36186-small.jpg');
   background-size: cover;
   background-position: center;
-  height: 100vh;
-  position: relative;
+  min-height: 85vh;
+  width: 100%;
 }
-
 header article {
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
-  max-width: 21rem;
+  max-width: 23em;
   position: absolute;
   bottom: 0;
-  padding: 2rem;
-  padding-bottom: 30vh;
+  padding: 2em;
+  padding-bottom: 25vh;
   margin-left: 10vw;
 }
 header h1 {
-  font-size: 2rem;
+  font-size: 3em;
   font-weight: 200;
   margin: 0;
 }
@@ -34,7 +55,48 @@ header h1 strong {
   font-weight: 700;
 }
 header p {
-  margin-top: 0.5rem;
+  margin-top: 0.5em;
+  font-size: 1.25em;
+}
+
+nav {
+  padding: 2em;
+  max-width: 20em;
+}
+nav ul {
+  list-style: none;
+}
+
+main {
+  box-sizing: border-box;
+  width: 50em;
+  max-width: 80vw;
+  padding: 4vw;
+}
+main p, main li {
+  max-width: 35em;
+  line-height: 1.5;
+}
+main h2, main h3, main h4 {
+  font-weight: 400;
+}
+main h2 {
+  font-size: 2.5rem;
+}
+main h3 {
+  font-size: 2rem;
+}
+main h4 {
+  font-size: 1.5rem;
+}
+
+main p.introduction {
+  font-size: 1.15em;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
 }
 
 footer {

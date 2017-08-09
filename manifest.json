@@ -1,0 +1,7 @@
+{
+  "name": "Vurb-Foundation",
+  "short_name": "Vurb-Foundation",
+  "description": "Site for the Vurb.Foundation",
+  "start_url": "/",
+  "display": "standalone"
+}

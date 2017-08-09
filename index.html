@@ -2,16 +2,45 @@
 <head>
   <title>Vurb.Foundation</title>
   <meta meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Muli:200,400,400i,700" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+  <script src="bower_components/webcomponentsjs/webcomponents-loader.js"></script>
+  <link rel="import" href="bower_components/polymer/polymer.html">
   <meta charset="UTF-8">
 </head>
 <header>
   <article>
-    <h1><strong>Vurb.</strong><wbr>Foundation</h1>
+    <h1><strong>Vurb.</strong><br>Foundation</h1>
       <p class="tagline">Connected public infrastructures for societal engagement.</p>
     </article>
 </header>
-<footer>
+<nav>
+  <ul>
+    <li><a href="#mission">Mission</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+<main>
+  <article id="mission">
+    <h1>Mission</h1>
+
+    <p class="introduction">We help develop public digital infrastructure that is inclusive, usable, adaptive and sustainable.</p>
+
+    <p>We are focused on creating a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.</p>
+
+    <p>We communicate, prototype, and implement this future by researching and developing applications, technologies and policy.</p>
+  </article>
+</main>
+<footer id="contact">
   <p>© The Vurb.Foundation can be reached at <a href="mailto:info@vurb.city">info@vurb.city</a>, say hi!</p>
 </footer>
-<link href="https://fonts.googleapis.com/css?family=Muli:200,400,400i,700" rel="stylesheet">
-<link href="style.css" rel="stylesheet">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101763214-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

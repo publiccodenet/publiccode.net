@@ -8,9 +8,8 @@ html {
 body {
   margin: 0;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
 }
 
@@ -28,16 +27,21 @@ a:hover {
   color: #F25757;
 }
 
+body > * {
+  max-width: 80vw;
+}
+
 header {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   width: 50em;
   max-width: 80vw;
   top: 0;
   z-index: 1;
+  flex: 1;
 }
 header article {
   background-color: white;
@@ -46,6 +50,10 @@ header h1 {
   font-size: 3em;
   font-weight: 200;
   margin: 0.5em;
+}
+header h1 a:link {
+  text-decoration: none;
+  font-style: normal;
 }
 header nav {
   font-size: 1.5em;
@@ -83,6 +91,7 @@ header nav ul li {
   justify-content: center;
   flex: 1;
   width: 100%;
+  max-width: 100%;
 }
 .hero article {
   width: 50em;
@@ -103,11 +112,14 @@ header nav ul li {
 }
 
 main {
-  background-color: white;
   box-sizing: border-box;
   width: 50em;
   max-width: 80vw;
-  padding: 4vw;
+}
+main article {
+  background-color: white;
+  padding: 2vw 4vw;
+  margin-bottom: 2vw;
 }
 main p, main li {
   max-width: 35em;
@@ -128,6 +140,12 @@ main h4 {
 
 main p.introduction {
   font-size: 1.15em;
+}
+main p.tumbleweed {
+  text-align: center;
+  opacity: 0.5;
+  font-style: italic;
+  padding: 2em;
 }
 
 footer {

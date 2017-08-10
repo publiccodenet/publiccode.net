@@ -3,6 +3,7 @@ html {
   font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
   font-size: 16px;
   color: black;
+  background-color: #f4f4f4;
 }
 body {
   margin: 0;
@@ -24,50 +25,85 @@ a[href*="//"]a::before {
   content: '☞ '
 }
 a:hover {
-  opacity: 0.8;
+  color: #F25757;
 }
 
 header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 50em;
+  max-width: 80vw;
+  top: 0;
+  z-index: 1;
+}
+header article {
+  background-color: white;
+}
+header h1 {
+  font-size: 3em;
+  font-weight: 200;
+  margin: 0.5em;
+}
+header nav {
+  font-size: 1.5em;
+}
+@media (max-width: 925px) {
+  header h1 {
+    font-size: 2em;
+  }
+  header nav {
+    font-size: 1em;
+  }
+}
+header h1 strong {
+  font-weight: 700;
+}
+
+header nav ul {
+  padding: 0;
+  list-style: none;
+}
+header nav ul li {
+  display: inline-block;
+  padding: 0.5em;
+}
+
+.hero {
   position: relative;
   background: black;
   background-image: url('images/jindong-h-36186-small.jpg');
   background-size: cover;
   background-position: center;
-  min-height: 85vh;
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
   width: 100%;
 }
-header article {
+.hero article {
+  width: 50em;
+  max-width: 80vw;
+  padding: 4vw 0;
+}
+.hero article p {
+  margin-top: 0.5em;
+  font-size: 1.25em;
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
-  max-width: 23em;
+  max-width: 15em;
   position: absolute;
   bottom: 0;
   padding: 2em;
   padding-bottom: 25vh;
-  margin-left: 10vw;
-}
-header h1 {
-  font-size: 3em;
-  font-weight: 200;
   margin: 0;
-}
-header h1 strong {
-  font-weight: 700;
-}
-header p {
-  margin-top: 0.5em;
-  font-size: 1.25em;
-}
-
-nav {
-  padding: 2em;
-  max-width: 20em;
-}
-nav ul {
-  list-style: none;
 }
 
 main {
+  background-color: white;
   box-sizing: border-box;
   width: 50em;
   max-width: 80vw;

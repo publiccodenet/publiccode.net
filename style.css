@@ -141,7 +141,7 @@ main h4 {
 main p.introduction {
   font-size: 1.15em;
 }
-main p.tumbleweed {
+.tumbleweed {
   text-align: center;
   opacity: 0.5;
   font-style: italic;

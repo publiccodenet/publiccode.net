@@ -1,4 +1,4 @@
-<img src="images/foundation-logo.svg">
+<img src="brand-assets/vurb-foundation-logo.svg">
 
 # The Foundation For Public Code
 

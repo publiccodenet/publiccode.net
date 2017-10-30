@@ -1,4 +1,4 @@
-<img src="brand-assets/vurb-foundation-logo.svg">
+<img src="brand-assets/logo.svg">
 
 # The Foundation For Public Code
 
@@ -12,7 +12,7 @@ To achieve this we maintain, manage, contribute to and grow an ecosystem of publ
 
 We help public Open Source projects become successful, build sustainable communities around them and create a thriving public Open Source ecology.
 
-Cities and civic organisations can become members of the Vurb.Foundation to collaboratively grow the ecosystem.
+Cities and civic organisations can become members of the Foundation For Public Code to collaboratively grow the ecosystem.
 
 Members can grant their policy and code to the foundation for sustainable stewardship and community management.
 
@@ -31,7 +31,13 @@ We help public software products be successful by guaranteeing their marketabili
 
 ## Contact
 
-Vurb.Foundation, The Foundation For Public Code
+The Foundation For Public Code
 
-* http://vurb.foundation
-* [info@vurb.city](info@vurb.city )
+* [info@publiccode.net](mailto:info@publiccode.net)
+* [github.com/publiccodenet](https://github.com/publiccodenet)
+
+**Ben Cerveny, Director**  
+[b.cerveny@publiccode.net](mailto:b.cerveny@publiccode.net)
+
+**Boris van Hoytema, Director**  
+[b.vanhoytema@publiccode.net](mailto:b.vanhoytema@publiccode.net)

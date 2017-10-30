@@ -1,6 +1,6 @@
-# Vurb.Foundation
+# http
 
-A web site for the Vurb.Foundation
+A web site for the Foundation For Public Code
 
 ## Installing
 

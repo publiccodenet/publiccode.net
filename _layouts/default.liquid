@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 
 <head>
-  <title>{{ page.title }} | The Foundation For Public Code</title>
+  <title>{% if page.title %}{{ page.title }} | {% else %}{% endif %}The Foundation For Public Code</title>
   <meta meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css?family=Muli:200,400,400i,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700" rel="stylesheet">
   <meta charset="UTF-8">
   <link rel="icon" href="/brand-assets/avatar-small.png">
   <style>
     html {
-      /* Imported Muli weights are 200, 400, 400i and 700 */
+      /* Imported Muli weights are  400, 400i and 700 */
       font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
       font-size: 16px;
       color: black;
@@ -62,6 +62,7 @@
 
     main h1 {
       font-size: 4em;
+      font-weight: 700;
     }
 
     @media screen and (min-width: 960px) {

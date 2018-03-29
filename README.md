@@ -1,6 +1,6 @@
 # http
 
-A web site for the Foundation For Public Code
+This website is the homepage for the Foundation For Public Code. It is a portal to the content that the Foundation For Public Code has to offer.
 
 ## Installing
 

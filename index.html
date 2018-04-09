@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Foundation For Public Code</title>
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700" rel="stylesheet">
+  <style>
+    a:link, a:visited {
+      color: black;
+    }
+
+    body {
+      font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
+      font-size: 3vmin;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      padding: 0;
+      margin: 0;
+    }
+    header {
+      background: #fdfdfd;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      flex: 1;
+      padding: 2em;
+    }
+    header svg {
+      height: 4em;
+      width: 4em;
+      margin-right: 1em;
+    }
+    header h1 {
+      font-size: 2em;
+    }
+    main {
+      display: flex;
+      flex: 1;
+    }
+    main>* {
+      display: block;
+    }
+    main a#about {
+      background: url(brand-assets/paris-hill-street.jpg);
+      background-size: cover;
+      flex: 1;
+    }
+    main>a>* {
+      background: rgba(255,255,255,0.7);
+      padding: 2rem;
+      margin: 0;
+      max-width: 40rem;
+    }
+    main>a:hover>* {
+      background: rgba(255,255,255,0.9);
+    }
+    main>*>*:not(:nth-child(1)) {
+      padding-top: 0;
+    }
+    main>a:link {
+      text-decoration: none;
+    }
+    main>a:link h2, main>a:link strong {
+      text-decoration: underline;
+    }
+    main ul {
+      list-style: none;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+      <svg width="904px" height="1042px" viewBox="0 0 903 1042" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>The Foundation For Public Code Mark</title>
+        <style>
+            #hexagon-outer, #details {
+                fill: black;
+            }
+            #hexagon-inner {
+                fill: white;
+            }
+        </style>
+        <polygon id="hexagon-outer" transform="translate(0, 0)" points="451.015 0 902.03 260.394 902.03 781.181 451.015 1041.57 0 781.181 0 260.394"></polygon>
+        <polygon id="hexagon-inner" transform="translate(18, 21)" points="433.013 0 866.025 250 866.025 750 433.013 1000 0 750 0 250"></polygon>
+        <g id="details" transform="translate(18, 271)">
+            <polygon transform="translate(433, 0)" points="433.025 62 433.025 0 224.59 0 0.013 250 0.013 312"></polygon>
+            <polygon transform="translate(0, 0)" points="2.84217e-13 62 433.013 312 433.013 250 0 0"></polygon>
+            <polygon transform="translate(488, 302)" points="0 41.905 0 354.021 72 312.393 72 0.277"></polygon>
+            <polygon transform="translate(614, 229)" points="72 312.543 0 354.171 0 42.056 72 0.4277"></polygon>
+            <polygon transform="translate(740, 156)" points="0 354.321 73 312.115 73 0 0 42.2061"></polygon>
+        </g>
+    </svg>    
+    <h1>Foundation For Public Code</h1>
+  </header>
+  <main>
+    <a href="https://about.publiccode.net" id="about">
+      <h2>About the Foundation For Public Code</h2>
+      <p>We help Open Source projects for cities become successful, build sustainable communities around them and create a thriving public Open Source ecosystem.</p>
+      <p>More at <strong>about.publiccode.net</strong></p>
+    </a>
+    <article id="contact">
+      <ul>
+      <li><a href="mailto:info@publiccode.net">info@publiccode.net
+      <li><a href="https://github.com/publiccodenet">github.com/publiccodenet
+      <li><a href="https://twitter.com/publiccodenet">twitter.com/publiccodenet
+      </ul>
+    </article>
+  </main>
+</body>
+</html>

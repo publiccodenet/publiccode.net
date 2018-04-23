@@ -58,9 +58,14 @@
     }
     main>* {
       display: block;
+      flex: 1;
     }
     main a#about {
       background: url(brand-assets/paris-hill-street.jpg);
+      background-size: cover;
+    }
+    main a#projects {
+      background: url(brand-assets/construction-site.jpg);
       background-size: cover;
       flex: 1;
     }
@@ -119,15 +124,20 @@
   </header>
   <main>
     <a href="https://about.publiccode.net" id="about">
-      <h2>About the Foundation For Public Code</h2>
+      <h2>About us</h2>
       <p>We help Open Source projects for cities become successful, build sustainable communities around them and create a thriving public Open Source ecosystem.</p>
       <p>More at <strong>about.publiccode.net</strong></p>
     </a>
+    <a href="https://projects.publiccode.net" id="projects">
+      <h2>Our projects</h2>
+      <p>We help Open Source projects for cities become successful, build sustainable communities around them and create a thriving public Open Source ecosystem.</p>
+      <p>More at <strong>projects.publiccode.net</strong></p>
+    </a>
     <article id="contact">
       <ul>
-      <li><a href="mailto:info@publiccode.net">info@publiccode.net
-      <li><a href="https://github.com/publiccodenet">github.com/publiccodenet
-      <li><a href="https://twitter.com/publiccodenet">twitter.com/publiccodenet
+        <li><a href="mailto:info@publiccode.net">info@publiccode.net</a></li>
+        <li><a href="https://github.com/publiccodenet">github.com/publiccodenet</a></li>
+        <li><a href="https://twitter.com/publiccodenet">twitter.com/publiccodenet</a></li>
       </ul>
     </article>
   </main>

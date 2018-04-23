@@ -12,7 +12,20 @@
   <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700" rel="stylesheet">
   <style>
     a:link, a:visited {
+      text-decoration: underline;
       color: black;
+    }
+    a:link {
+      text-decoration-color: blue;
+    }
+    a:visited {
+      text-decoration-color: purple;
+    }
+    a:link[href^='#'], a:visited[href^='#'] {
+      text-decoration-color: darkgrey;
+    }
+    a:hover {
+      background: rgba(0,0,0,0.05);
     }
 
     body {
@@ -86,11 +99,9 @@
     main>*>*:not(:nth-child(1)) {
       padding-top: 0;
     }
-    main>a:link {
+    main>a:link p:nth-child(2) {
       text-decoration: none;
-    }
-    main>a:link h2, main>a:link strong {
-      text-decoration: underline;
+      display: inline-block;
     }
     main ul {
       list-style: none;

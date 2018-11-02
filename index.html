@@ -5,18 +5,23 @@ layout: default
 <style>
   section.content article {}
 
-@media (min-width: 800px) {
-  .mp-section {
-    display: flex;
-    flex-direction: row;
+  @media (min-width: 800px) {
+    .mp-section {
+      display: flex;
+      flex-direction: row;
+      font-family: 'Muli', sans-serif;
+    }
+    .mp-section:nth-child(odd) {
+      flex-direction: row-reverse;
+    }
+    .mp-section>* {
+      padding: 2em;
+      align-self: center;
+    }
+    .mp-section img {
+      max-width: 40em;
+    }
   }
-  .mp-section:nth-child(odd) {
-    flex-direction: row-reverse;
-  }
-  .mp-section img {
-    max-width: 40em;
-  }
-}
 </style>
 
 <div class="mp-section">
@@ -41,14 +46,6 @@ layout: default
 
   <img alt="illustration, agreement" src="brand-assets/agreement.svg">
 </div>
-
-<hr>
-
-<p>
-  <p>
-    We provide the following for products under our stewardship:
-  </p>
-</p>
 
 <div class="mp-section">
   <div><h2>Making sure the code, tests and documentation are always up to the standards</h2>
@@ -84,7 +81,7 @@ layout: default
   <div><h2>Providing users, vendors and developers with the tools, skills and answers they need</h2>
   
   <p>
-    To drive <strong>Developer Success</strong> we help with (end">user support, packaging, and distributing official versions as well as developing training materials and certifications. We also help vendors such as cooperatives, NGOs and for profit companies to sell, implement and support the product.
+    To drive <strong>Developer Success</strong> we help with (end)user support, packaging, and distributing official versions as well as developing training materials and certifications. We also help vendors such as cooperatives, NGOs and for profit companies to sell, implement and support the product.
   </p>
   </div>
   <img alt="illustration, teacher" src="brand-assets/teacher.svg">

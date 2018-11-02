@@ -5,17 +5,21 @@ layout: default
 <style>
   section.content article {}
 
+  .mp-section {
+      font-family: 'Muli', sans-serif;
+    }
+
   @media (min-width: 800px) {
     .mp-section {
       display: flex;
       flex-direction: row;
-      font-family: 'Muli', sans-serif;
     }
     .mp-section:nth-child(odd) {
       flex-direction: row-reverse;
     }
     .mp-section>* {
       padding: 2em;
+      align-self: center;
     }
     .mp-section img {
       max-width: 40em;

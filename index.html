@@ -5,9 +5,12 @@ layout: default
 <style>
   section.content article {}
 
-  .mp-section {
-      font-family: 'Muli', sans-serif;
-    }
+  .mp-section h1, .mp-section h2, .mp-section h3 {
+    font-family: 'Muli', sans-serif;
+  }
+  h1:not(.title) {
+    font-weight: normal;
+  }
 
   @media (min-width: 800px) {
     .mp-section {
@@ -20,18 +23,20 @@ layout: default
     .mp-section>* {
       padding: 2em;
       align-self: center;
+      flex: 1 1 auto;
+      width: 50%;
     }
     .mp-section img {
       max-width: 40em;
-      width: 100%;
-      height: 100%;
     }
     .mp-section:not(:first-of-type) p, .mp-section:first-of-type p:first-of-type {
       font-size: 1.15em;
     }
-    .mp-section h2 {
-      font-weight: normal;
+    .mp-section h1, .mp-section h2 {
       border-bottom: none;
+    }
+    .mp-section h1 {
+      font-size: 2.5em;
     }
     main {
       max-width: 85em !important;
@@ -49,21 +54,13 @@ layout: default
 
 <div class="mp-section">
   <div>
+    <h1 class="title">Product Stewardship</h1>
     <h1>Everything your project needs to be sustainable, collaborative and open.</h1>
 
     <p>
-      Through Product Stewardship we help public source code & policy
+      Through <strong>Product Stewardship</strong> we help public source code & policy
       code products become successful by guaranteeing their marketability and
       quality. Trustworthy, usable, maintained and sustainable code & code for your city.
-    </p>
-
-    <p>
-      We provide these services explicitly at <em>ecosystem level</em> – not at a national or city level – to make sure that context specific code or policy does not become a barrier to implementation.
-      This means that we make sure that code is reusable across contexts globally.
-    </p>
-
-    <p>
-      For local implementations we collaborate with local implementation partners, working actively with them to both integrate effectively in the local context while simultaneously making it easier for others to implement as well.
     </p>
   </div>
 
@@ -118,4 +115,14 @@ layout: default
   </p>
   </div>
   <img alt="illustration, support" src="brand-assets/man-designer.svg">
+</div>
+
+<div class="mp-section">
+    <p>
+      We provide these services explicitly at <em>ecosystem level</em> – not at a national or city level – to make sure that context specific code or policy does not become a barrier to implementation.
+      This means that we make sure that code is reusable across contexts globally.
+    </p>
+    <p>
+      For local implementations we collaborate with local implementation partners, working actively with them to both integrate effectively in the local context while simultaneously making it easier for others to implement as well.
+    </p>
 </div>

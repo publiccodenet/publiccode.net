@@ -1,151 +1,101 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  
-  <title>Foundation For Public Code</title>
-  
-  <link rel="icon" href="https://brand.publiccode.net/logo/mark-128w128h.png">
+---
+layout: default
+---
 
-  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700" rel="stylesheet">
-  <style>
-    a:link, a:visited {
-      text-decoration: underline;
-      color: black;
-    }
-    a:link {
-      text-decoration-color: blue;
-    }
-    a:visited {
-      text-decoration-color: purple;
-    }
-    a:link[href^='#'], a:visited[href^='#'] {
-      text-decoration-color: darkgrey;
-    }
-    a:hover {
-      background: rgba(0,0,0,0.05);
-    }
+<style>
+  section.content article {}
 
-    body {
-      font-family: 'Muli', 'Helvetica Neue', 'Arial', sans-serif;
-      font-size: 2.5vmin;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-      padding: 0;
-      margin: 0;
-    }
-    @media (max-width: 700px) {
-      body {
-        font-size: 16px;
-      }
-    }
-    header {
-      background: #fdfdfd;
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: center;
-      flex: 1;
-      padding: 2em;
-    }
-    header svg {
-      height: 4em;
-      width: 4em;
-      margin-right: 1em;
-    }
-    header h1 {
-      font-size: 2em;
-    }
-    @media (max-width: 700px) {
-      header h1 {
-        font-size: 1.5em;
-      }
-    }
-    main {
-      display: flex;
-      flex: 1;
-      flex-wrap: wrap;
-      padding: 1em;
-    }
-    main>* {
-      display: block;
-      flex: 1;
-      margin: 1em;
-    }
-    main a#about {
-      background: url(brand-assets/paris-hill-street.jpg);
-      background-size: cover;
-    }
-    main a#projects {
-      background: url(brand-assets/construction-site.jpg);
-      background-size: cover;
-      flex: 1;
-    }
-    main>a>* {
-      background: rgba(255,255,255,0.7);
-      padding: 2rem;
-      margin: 0;
-      max-width: 33vw;
-    }
-    @media (max-width: 700px) {
-      main>a>* {
-        max-width: 100%;
-      }
-    }
-    main>a:hover>* {
-      background: rgba(255,255,255,0.9);
-    }
-    main>*>*:not(:nth-child(1)) {
-      padding-top: 0;
-    }
-    main>a:link p:nth-child(2) {
-      text-decoration: none;
-      display: inline-block;
-    }
-    main ul {
-      list-style: none;
-      padding: 1rem;
-    }
-  </style>
-</head>
-<body>
-  <header>
-      <svg width="904px" height="1042px" viewBox="0 0 903 1042" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <title>The Foundation For Public Code Mark</title>
-        <style>
-            #hexagon-outer, #details {
-                fill: black;
-            }
-            #hexagon-inner {
-                fill: white;
-            }
-        </style>
-        <polygon id="hexagon-outer" transform="translate(0, 0)" points="451.015 0 902.03 260.394 902.03 781.181 451.015 1041.57 0 781.181 0 260.394"></polygon>
-        <polygon id="hexagon-inner" transform="translate(18, 21)" points="433.013 0 866.025 250 866.025 750 433.013 1000 0 750 0 250"></polygon>
-        <g id="details" transform="translate(18, 271)">
-            <polygon transform="translate(433, 0)" points="433.025 62 433.025 0 224.59 0 0.013 250 0.013 312"></polygon>
-            <polygon transform="translate(0, 0)" points="2.84217e-13 62 433.013 312 433.013 250 0 0"></polygon>
-            <polygon transform="translate(488, 302)" points="0 41.905 0 354.021 72 312.393 72 0.277"></polygon>
-            <polygon transform="translate(614, 229)" points="72 312.543 0 354.171 0 42.056 72 0.4277"></polygon>
-            <polygon transform="translate(740, 156)" points="0 354.321 73 312.115 73 0 0 42.2061"></polygon>
-        </g>
-    </svg>    
-    <h1>Foundation For Public Code</h1>
-  </header>
-  <main>
-    <a href="https://about.publiccode.net" id="about">
-      <h2>About us</h2>
-      <p>We help Open Source projects for cities become successful, build sustainable communities around them and create a thriving public Open Source ecosystem.</p>
-      <p>More at <strong>about.publiccode.net</strong></p>
-    </a>
-    <a href="https://projects.publiccode.net" id="projects">
-      <h2>Our projects</h2>
-      <p>Open Source products we're researching or developing to further our mission.</p>
-      <p>More at <strong>projects.publiccode.net</strong></p>
-    </a>
-  </main>
-</body>
-</html>
+@media (min-width: 800px) {
+  .mp-section {
+    display: flex;
+    flex-direction: row;
+  }
+  .mp-section:nth-child(odd) {
+    flex-direction: row-reverse;
+  }
+  .mp-section img {
+    max-width: 40em;
+  }
+}
+</style>
+
+<div class="mp-section">
+  <div>
+    <h1>Everything your project needs to be sustainable, collaborative and open.</h1>
+
+    <p>
+      Through Product Stewardship we help public source code & policy
+      code products become successful by guaranteeing their marketability and
+      quality. Trustworthy, usable, maintained and sustainable code & code for your city.
+    </p>
+
+    <p>
+      We provide these services explicitly at <em>ecosystem level</em> – not at a national or city level – to make sure that context specific code or policy does not become a barrier to implementation.
+      This means that we make sure that code is reusable across contexts globally.
+    </p>
+
+    <p>
+      For local implementations we collaborate with local implementation partners, working actively with them to both integrate effectively in the local context while simultaneously making it easier for others to implement as well.
+    </p>
+  </div>
+
+  <img alt="illustration, agreement" src="brand-assets/agreement.svg">
+</div>
+
+<hr>
+
+<p>
+  <p>
+    We provide the following for products under our stewardship:
+  </p>
+</p>
+
+<div class="mp-section">
+  <div><h2>Making sure the code, tests and documentation are always up to the standards</h2>
+  
+  <p>
+    We check every merge request on code, policy and documentation quality in out <strong>Codebase Auditing</strong> process. This enables agile development for trustworthy codebases for public institutions and their collaborators.
+  </p>
+  </div>
+  <img alt="illustration, checking" src="brand-assets/passport-check.svg">
+</div>
+
+<div class="mp-section">
+  <div><h2>Enabling the community to grow, organise and build amazing things together</h2>
+  
+  <p>
+    With <strong>Community Development</strong> we help the community organise and grow, to process feedback and contributions, organise events, and build and execute effective governance.
+  </p>
+  </div>
+  <img alt="illustration, conversation" src="brand-assets/woman-conversation.svg">
+</div>
+
+<div class="mp-section">
+  <div><h2>Adding the stories and details a codebase needs to be noticed and re-used</h2>
+  
+  <p>
+    Through <strong>Product Management</strong> we grow adoption and help mature the codebase to the point where it can shine on its own. In order for potential re-users and future contributors to notice and adopt the codebase we help to turn it in to a product with the branding and communications it needs as well as support on development and design.
+  </p>
+  </div>
+  <img alt="illustration, designer" src="brand-assets/deadline.svg">
+</div>
+
+<div class="mp-section">
+  <div><h2>Providing users, vendors and developers with the tools, skills and answers they need</h2>
+  
+  <p>
+    To drive <strong>Developer Success</strong> we help with (end">user support, packaging, and distributing official versions as well as developing training materials and certifications. We also help vendors such as cooperatives, NGOs and for profit companies to sell, implement and support the product.
+  </p>
+  </div>
+  <img alt="illustration, teacher" src="brand-assets/teacher.svg">
+</div>
+
+<div class="mp-section">
+  <div><h2>We take care of the product and codebase's operations and legal affairs</h2>
+  
+  <p>
+    In order to effectively steward a codebase we provide operations support such as infrastructure and process management as well as legal services such as license support, IP management and trademark protection.
+  </p>
+  </div>
+  <img alt="illustration, support" src="brand-assets/man-designer.svg">
+</div>

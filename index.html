@@ -55,21 +55,22 @@ layout: default
     .mp-section {
       display: block;
       margin: 4em 0;
+      page-break-inside : avoid;
+      clear:both;
+    }
+    footer {
+      page-break-inside : avoid;
     }
     .mp-section img {
-      width: 40%;
+      width: 50%;
     }
-    .mp-section:not(:first-of-type):nth-child(even)>div {
-      margin-right: 50%;
-    }
-    .mp-section:not(:first-of-type):nth-child(odd)>div {
-      margin-left: 50%;
-    }
-    .mp-section:nth-child(even) img {
+    .mp-section:nth-child(even)>div {
       float: left;
+      width: 50%;
     }
-    .mp-section:nth-child(odd) img {
+    .mp-section:nth-child(odd)>div {
       float: right;
+      width: 50%;
     }
   }
 </style>

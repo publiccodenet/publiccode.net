@@ -50,6 +50,28 @@ layout: default
       align-items: center;
     }
   }
+
+  @media print {
+    .mp-section {
+      display: block;
+      margin: 4em 0;
+    }
+    .mp-section img {
+      width: 40%;
+    }
+    .mp-section:not(:first-of-type):nth-child(even)>div {
+      margin-right: 50%;
+    }
+    .mp-section:not(:first-of-type):nth-child(odd)>div {
+      margin-left: 50%;
+    }
+    .mp-section:nth-child(even) img {
+      float: left;
+    }
+    .mp-section:nth-child(odd) img {
+      float: right;
+    }
+  }
 </style>
 
 <div class="mp-section">

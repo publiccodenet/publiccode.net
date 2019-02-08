@@ -1,0 +1,100 @@
+---
+layout: default
+---
+
+<style>
+  section.content article {}
+
+  .mp-section h1, .mp-section h2, .mp-section h3 {
+    font-family: 'Muli', sans-serif;
+  }
+  h1:not(.title) {
+    font-weight: normal;
+  }
+
+  @media (min-width: 800px) {
+    .mp-section {
+      display: flex;
+      flex-direction: row;
+    }
+    .mp-section:nth-child(odd) {
+      flex-direction: row-reverse;
+    }
+    .mp-section>* {
+      padding: 2em;
+      align-self: center;
+      flex: 1 1 auto;
+      width: 50%;
+    }
+    .mp-section img {
+      max-width: 40em;
+    }
+    .mp-section:not(:first-of-type) p, .mp-section:first-of-type p:first-of-type {
+      font-size: 1.15em;
+    }
+    .mp-section h1, .mp-section h2 {
+      border-bottom: none;
+    }
+    .mp-section h1 {
+      font-size: 2.5em;
+    }
+    main {
+      max-width: 85em !important;
+    }
+    .mp-section:not(:first-of-type) {
+      max-width: 75em;
+    }
+    article.markdown-body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .mp-cards {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+    a.mp-card {
+      max-width: 24em;
+      padding: 2em;
+      align-self: center;
+      flex: 1 1 auto;
+      width: 50%;
+    }
+    a.mp-card:link p {
+      display: inline-block;
+    }
+    h5.type {
+      margin: 0;
+      background: #eee;
+      display: inline-block;
+      padding: 0.5em;
+    }
+  }
+
+  @media print {
+    .mp-section, .mp-cards {
+      display: block;
+      margin: 4em 0;
+      page-break-inside : avoid;
+      clear:both;
+    }
+    footer {
+      page-break-inside : avoid;
+    }
+    .mp-section img, .mp-cards img {
+      width: 50%;
+    }
+    .mp-section:nth-child(even)>div {
+      float: left;
+      width: 50%;
+    }
+    .mp-section:nth-child(odd)>div {
+      float: right;
+      width: 50%;
+    }
+  }
+</style>
+
+{{ content }}

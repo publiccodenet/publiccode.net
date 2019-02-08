@@ -9,6 +9,20 @@ layout: default
   h1:not(.title) {
     font-weight: normal;
   }
+  a.mp-card {
+    display: block;
+    padding: 1em;
+    border: 1px solid #eee;
+  }
+  a.mp-card:link p {
+    display: inline-block;
+  }
+  h5.type {
+    margin: 0;
+    background: #eee;
+    display: inline-block;
+    padding: 0.5em;
+  }
 
   @media (min-width: 800px) {
     .mp-section {
@@ -55,19 +69,9 @@ layout: default
     }
     a.mp-card {
       max-width: 24em;
-      padding: 2em;
       align-self: center;
       flex: 1 1 auto;
       width: 50%;
-    }
-    a.mp-card:link p {
-      display: inline-block;
-    }
-    h5.type {
-      margin: 0;
-      background: #eee;
-      display: inline-block;
-      padding: 0.5em;
     }
     .product-status {
       background: #eee;

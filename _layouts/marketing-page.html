@@ -32,6 +32,12 @@ layout: default
   }
 
   @media (min-width: 800px) {
+    main section.content {
+      padding: 1em;
+    }
+    main section.content article {
+      padding: 0;
+    }
     .mp-section {
       display: flex;
       flex-direction: row;
@@ -57,16 +63,8 @@ layout: default
     .mp-section h1 {
       font-size: 2.5em;
     }
-    main {
-      max-width: 85em !important;
-    }
     .mp-section:not(:first-of-type) {
       max-width: 75em;
-    }
-    article.markdown-body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
     }
     .mp-cards {
       display: flex;
@@ -79,6 +77,11 @@ layout: default
       align-self: center;
       flex: 1 1 auto;
       width: 50%;
+    }
+    article.markdown-body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
   }
 

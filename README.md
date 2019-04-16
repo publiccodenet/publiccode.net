@@ -1,12 +1,12 @@
 # http
 
-This website is the homepage for the Foundation for Public Code. It is a portal to the content that the Foundation For Public Code has to offer.
+This website is the homepage for the Foundation for Public Code. It is a portal to the content that the Foundation for Public Code has to offer.
 
 ## Installing
 
 This site is made for GitHub pages and thus runs their Jekyll install.
 
-To install, use bundler
+To install, use bundler:
 
 > bundle install
 

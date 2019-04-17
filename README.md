@@ -6,7 +6,7 @@ This website is the homepage for the Foundation for Public Code. It is a portal 
 
 This site is made for GitHub pages and thus runs their Jekyll install.
 
-To install, use bundler
+To install, use bundler:
 
 > bundle install
 

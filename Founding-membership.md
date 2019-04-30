@@ -42,6 +42,7 @@ We also offer:
 
 
 ## Founding membership: process validation
+
 To become a founding member that can help us validate our code certification and stewardship processes, you should have:
 
 * an open source software solution that you think other public organisations will be interested in reusing
@@ -51,6 +52,7 @@ To become a founding member that can help us validate our code certification and
 * the ability to make in-kind contributions to help us develop our processes and governance, for example working with your legal department to confirm that our articles of association would be acceptable acceptable for your type of organisation
 
 ## Founding membership: material support
+
 This type of founding membership is open to public organisations that don’t currently have a codebase available, but are invested in creating a future for public code.
 
 You should be willing to make:
@@ -62,4 +64,4 @@ You should also have enthusiasm for public code at the most senior levels within
 
 ## How to join the Foundation
 
-If either type of founding membership seems like a good fit for your organization, then we’d love to hear from you. Please email us at <membership@publiccode.net>.
+If your organization is curious about either type of founding membership, then we’d love to hear from you. Please email us at <membership@publiccode.net>.

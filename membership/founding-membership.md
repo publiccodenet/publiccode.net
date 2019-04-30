@@ -17,7 +17,7 @@ As a founding member, you’ll shape the Foundation’s processes and governance
 
 As a founding member, you will:
 
-* be one of the first to submit your codebases for stewardship by the Foundation (reducing your future risk and maintenance costs)
+* be one of the first to have codebases stewarded by the Foundation (reducing your future risk and maintenance costs)
 * get a seat on the board of directors
 * have your membership fees waived for the first year
 * steer the Foundation’s pipeline towards projects you’d like to reuse

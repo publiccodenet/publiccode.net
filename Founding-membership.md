@@ -12,6 +12,7 @@ We are looking for organisations that can either:
 We’ll open other types of membership from 2020.
 
 ## Benefits of being a founding member
+
 As a founding member, you’ll shape the Foundation’s processes and governance.
 
 As a founding member, you will:

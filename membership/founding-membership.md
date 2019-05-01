@@ -2,7 +2,7 @@
 
 We’re currently looking for founding members to help build the Foundation for Public Code’s long term future by joining us now.
 
-Founding members are forward-thinking public organizations with a strong principled commitment to the existence of an ecosystem of public code. You’ll be willing to take co-ownership of the Foundation [in line with our draft principles] and be an advocate for public code.
+Founding members are forward-thinking public organizations with a strong principled commitment to the existence of an ecosystem of public code. You’ll be willing to take co-ownership of the Foundation and be an advocate for public code.
 
 We are looking for organizations that can:
 

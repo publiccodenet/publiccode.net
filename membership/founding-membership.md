@@ -25,10 +25,9 @@ As a founding member, you will:
 This is in addition to the regular benefits of Foundation membership. These include being able to:
 
 * invoke continuous integration auditing resources on projects in development accepted by the Foundation (increasing the security of your code)
-* (re)use codebases from the repository, and rely on the stewarded community for support, bug fixes, and continued development (saving money on future procurement)
 * demonstrate return on IT investments from higher levels of administration
-* learn from and share experience with other bold, innovative public organizations
 * collectively participate in a trusted Foundation procurement strategy
+* learn from and share experience with other bold, innovative public organizations and leaders in the sector
 
 We also offer:
 

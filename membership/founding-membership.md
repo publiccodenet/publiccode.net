@@ -38,26 +38,19 @@ We also offer:
 * opportunities for leadership roles in Foundation initiatives
 * a blogpost announcing membership
 
-## Founding membership: process validation
+## Founding membership requirements
 
-To become a founding member that can help us validate our code certification and stewardship processes, you should have:
+To become a founding member you should have both of these:
 
-* an open source software solution that you think other public organizations will be interested in reusing
-* a development team and policy experts able to work with the Foundation to refactor and document your software and policy so that they meet the Standard for Public Code
-* enthusiasm for public code at the most senior levels within your organization
+* enthusiasm for public code at the most senior levels within your organisation
+* the ability to make in-kind contributions to help us develop our processes and governance, so that they work better for your type of organisation
+
+To become a founding member you should have some of these:
+
 * a willingness to help the Foundation test its onboarding and code auditing processes, so we can get it right
-* the ability to make in-kind contributions to help us develop our processes and governance, for example working with your legal department to confirm that our articles of association would be acceptable acceptable for your type of organization
-
-## Founding membership: material support
-
-This type of founding membership is open to public organizations that don’t currently have a codebase available, but are invested in creating a future for public code.
-
-You should be willing to make:
-
-* a significant financial commitment relative to your type and size of organization
-* in-kind contributions of your staff to help us develop our processes so that they work better for your type of organization
-
-You should also have enthusiasm for public code at the most senior levels within your organization.
+* the ability to make a significant financial commitment relative to your type and size of organization (especially if you don’t currently have a codebase available, but are invested in creating a future for public code)
+* an open source software solution that you think other public organisations will be interested in reusing
+* a development team and policy experts able to work with the Foundation to refactor and document your software and policy so that they meet the Standard for Public Code
 
 ## How to join the Foundation
 

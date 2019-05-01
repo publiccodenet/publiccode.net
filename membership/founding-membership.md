@@ -19,7 +19,6 @@ As a founding member, you will:
 
 * be one of the first to have codebases stewarded by the Foundation (reducing your future risk and maintenance costs)
 * get a seat on the board of directors
-* have your membership fees waived for the first year
 * steer the Foundation’s pipeline towards projects you’d like to reuse
 * gain recognition as a leader of systemic digital transformation
 
@@ -39,7 +38,6 @@ We also offer:
 * direct access to technical decision-makers of the Foundation platform
 * opportunities for leadership roles in Foundation initiatives
 * a blogpost announcing membership
-
 
 ## Founding membership: process validation
 

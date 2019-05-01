@@ -15,7 +15,7 @@ We’ll open other types of membership from 2020.
 
 As a founding member, you’ll shape the Foundation’s processes and governance.
 
-As a founding member, you will:
+You will:
 
 * be one of the first to have codebases stewarded by the Foundation (reducing your future risk and maintenance costs)
 * get a seat on the board of directors

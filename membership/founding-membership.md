@@ -1,6 +1,6 @@
 # Become a founding member
 
-We’re currently looking for founding members to help build the Foundation for Public Code’s long term future by joining us now.
+We’re currently looking for founding members to help shape the Foundation for Public Code’s long term future by joining us now.
 
 Founding members are forward-thinking public organizations with a strong principled commitment to the existence of an ecosystem of public code. You’ll be willing to take co-ownership of the Foundation and be an advocate for public code.
 
@@ -54,4 +54,4 @@ To become a founding member you should have some of these:
 
 ## How to join the Foundation
 
-If your organization is curious about either type of founding membership, then we’d love to hear from you. Please email us at <membership@publiccode.net>.
+If your organization is curious about founding membership, then we’d love to hear from you. Please email us at <membership@publiccode.net>.

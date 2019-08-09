@@ -3,9 +3,6 @@ layout: site
 ---
 
 <style>
-  .mp-section h1, .mp-section h2, .mp-section h3 {
-    font-family: 'Muli', sans-serif;
-  }
   h1:not(.title) {
     font-weight: normal;
   }
@@ -17,12 +14,6 @@ layout: site
   a.mp-card:link p {
     display: inline-block;
   }
-  h5.type {
-    margin: 0;
-    background: #eee;
-    display: inline-block;
-    padding: 0.5em;
-  }
   .product-status {
     background: #eee;
     padding: 0.5em;
@@ -32,15 +23,10 @@ layout: site
   }
 
   @media (min-width: 800px) {
-    main section.content {
-      padding: 2em;
-    }
-    main section.content article {
-      padding: 0;
-    }
     .mp-section {
       display: flex;
       flex-direction: row;
+      flex-basis: 100%;
     }
     .mp-section:nth-child(odd) {
       flex-direction: row-reverse;

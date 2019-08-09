@@ -37,7 +37,7 @@ As a small but growing organization we also regularly need help from talented in
 
 You'll get the chance to learn from and work with everyone at the Foundation.
 
-For the latest list of things we are solliciting from contributors, please check out our [GitHub repositories](https://github.com/publiccodenet) or our [individual contributors](../contributor-guides/for-individuals.md) page. You can also send us  a proposal that you think can benefit us as well as fulfull your internship requirements.
+For the latest list of things we are solliciting from contributors, please check out our [GitHub repositories](https://github.com/publiccodenet) or our [individual contributors](https://about.publiccode.net/contributor-guides/for-individuals) page. You can also send us  a proposal that you think can benefit us as well as fulfull your internship requirements.
 
 ## What we expect from all of our team members
 

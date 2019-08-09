@@ -9,7 +9,7 @@ Come help producers of open source software for public use – such as in cities
 
 We test against the Standard for Public Code to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-Part of this effort is to get a wider uptake for these codebases - reused codebases become more cost effective, higher quality, more resilient and more attractive to contributors. This means policy makers, management and developers in public organizations need to get to know the [codebases](../glossary/codebase-definition.md) and how to use them to solve their problems.
+Part of this effort is to get a wider uptake for these codebases - reused codebases become more cost effective, higher quality, more resilient and more attractive to contributors. This means policy makers, management and developers in public organizations need to get to know the [codebases](https://about.publiccode.net/glossary/codebase-definition) and how to use them to solve their problems.
 
 ## What the codebase steward for product marketing does
 

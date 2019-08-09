@@ -9,7 +9,7 @@ Come help producers of open source software for public use – such as in cities
 
 We test against the [Standard for Public Code](https://standard.publiccode.net/) to make codebases understandable, reusable and community based. Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-Part of this effort is to make reuse as easy as possible - for the public organizations that would benefit from using or contributing to these [codebases](//about.publiccode.net/glossary/codebase-definition), it's not always easy to get started, know how to use or procure a solution like this, or even to trust the codebase.
+Part of this effort is to make reuse as easy as possible - for the public organizations that would benefit from using or contributing to these [codebases](https://about.publiccode.net/glossary/codebase-definition), it's not always easy to get started, know how to use or procure a solution like this, or even to trust the codebase.
 
 ## What the codebase steward for support does
 

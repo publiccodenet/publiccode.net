@@ -5,7 +5,7 @@ excerpt: Grow strong communities around the codebases (Full time, Amsterdam)
 
 # Codebase steward for community
 
-Come help the makers of open source software for public use – such as governments and cities – build thriving communities around their [codebases](../glossary/codebase-definition.md). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services. This role is vital to the Foundation for Public Code's mission to enable public-purpose software and policy that is open and collaborative.
+Come help the makers of open source software for public use – such as governments and cities – build thriving communities around their [codebases](https://about.publiccode.net/glossary/codebase-definition). This enables sharing of knowledge across organizations, makes codebases stronger and improves the quality of public services. This role is vital to the Foundation for Public Code's mission to enable public-purpose software and policy that is open and collaborative.
 
 ## What the codebase steward for community does
 

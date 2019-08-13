@@ -1,0 +1,21 @@
+<footer id="site-footer">
+
+  <section>
+    <h3>On this site</h3>
+    <ul>
+      <li><a href="/codebase-stewardship">Codebase stewardship</a></li>
+      <li><a href="/careers">Careers</a></li>
+    </ul>
+  </section>
+  
+  <section>
+    <h3>This site on GitHub</h3>
+    <p>This site was last published {{ site.time | date_to_long_string }} from the source at GitHub</p>
+    <ul>
+      <li><a href="{{ site.github.repository_url }}">{{ site.github.owner_name }}/{{ site.github.repository_name }}</a></li>
+      <li><a class="github-button" href="{{ site.github.repository_url }}" data-icon="octicon-star" data-count-href="{{ site.github_username }}/{{ github_repo }}/stargazers" data-count-api="/repos/{{ site.github_username }}/{{ github_repo }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ site.github_username }}/{{ github_repo }} on GitHub">Star</a></li>
+      <li><a class="github-button" href="{{ site.github.repository_url }}/issues" data-icon="octicon-issue-opened" aria-label="Issue ntkme/github-buttons on GitHub" data-show-count="true">Issue</a></li>
+    </ul>
+  </section>
+
+</footer>

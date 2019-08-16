@@ -15,3 +15,7 @@ And running the local server:
 > bundle exec jekyll serve
 
 [Read more on how to run GitHub pages locally](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+## Redirected URLs
+
+All the redirected URLs are with their permalink in the `redirects` folder to keep them together.

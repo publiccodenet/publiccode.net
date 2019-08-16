@@ -1,6 +1,6 @@
 ---
 permalink: standard
-type: Resource
+type: Redirected
 layout: redirected
 sitemap: false
 redirect_to: https://standard.publiccode.net/

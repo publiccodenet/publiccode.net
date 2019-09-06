@@ -1,8 +1,8 @@
 # Careers
 
-Join us in working to fulfil our mission to enable public-purpose software and policy that is open and collaborative.
+Join our mission to enable public-purpose software and policy that is open and collaborative.
 
-## About the foundation
+## About us
 
 We aim to build international public sector communities working together to share open source software and policy in a radically collaborative and open way. Public organizations are building more open software than ever before, but collaborating at the scale needed to co-develop and maintain a codebase is still hard – it's not the core responsibility of any single public organization.
 
@@ -21,7 +21,7 @@ We do this through active codebase stewardship and publishing [the Standard for 
 
 All of us fundamentally believe that our public organizations using FOSS will result in better public services for everyone and be a better use of taxpayer money. We do impactful work as part of a mission we believe in.
 
-We're small, open, flexible and non-hierarchical. We act with integrity and compassion with each other and the broader communities we're a part of. We make decisions by rough consensus, and value the diversity of perspectives on our team.
+We're small, open, flexible and non-hierarchical. We act with integrity and compassion for each other and the broader communities we're a part of. We make decisions by rough consensus, and value the diversity of perspectives on our team.
 
 We hire the best people we can, trust their expertise, and give them near infinite autonomy. We also support each other, and do lots of pair working.
 

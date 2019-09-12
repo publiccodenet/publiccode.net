@@ -2,7 +2,7 @@ title: Foundation for Public Code
 permalinks: pretty
 
 remote_theme: publiccodenet/jekyll-theme
-description: Enabling development of digital policy and software for public purposes. In order to deliver contemporary public digitial services that are inclusive, usable, adaptive, open and sustainable we need to work together. The Foundation for Public Code offers infrastructural services and products to enable Public Code development.
+description: Enabling public-purpose software and policy that is open and collaborative. We help open source projects for public organizations to become successful, build sustainable communities around them and create a thriving public open source ecosystem. We do this through codebase stewardship of both software and civic code.
 
 titles_from_headings:
   strip_title: true

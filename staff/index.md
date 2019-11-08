@@ -9,7 +9,7 @@ We're a multidisciplinary team with years of experience in government digital tr
 Boris van Hoytema, Chief executive
 
 
-Claus Mullie, codebase stewardship and member relations coordinator
+Claus Mullie, Codebase stewardship and member relations coordinator
 
 ![photo of Elena Findley-de Regt](../brand-assets/elena.jpg)
 [Elena Findley-de Regt](elena-bio.md), Communications coordinator

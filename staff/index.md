@@ -15,7 +15,7 @@ Claus Mullie, Codebase stewardship and member relations coordinator
 [Elena Findley-de Regt](elena-bio.md), Communications coordinator
 
 
-Eric Herman, Lead codebase steward
+[Eric Herman](eric-bio.md), Lead codebase steward
 
 [Jan Ainali](jan-bio.md), Codebase steward
 

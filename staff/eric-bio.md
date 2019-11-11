@@ -6,6 +6,4 @@ Formerly a Principal Developer at Booking<span></span>.com, he has worked on the
 
 Eric loves Free and Open Source Software and will often be seen sporting a FOSS t-shirt. In his weekends, as a member of the OpenElectronicsLab, he writes embedded-systems software as well as designs and builds Open Hardware.
 
-[https://github.com/ericherman](https://github.com/ericherman)
-[https://twitter.com/eric\_herman](https://twitter.com/eric_herman)
-
+[GitHub](https://github.com/ericherman)/[Twitter](https://twitter.com/eric_herman)

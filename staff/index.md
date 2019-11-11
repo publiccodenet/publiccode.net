@@ -6,17 +6,15 @@ We're a multidisciplinary team with years of experience in government digital tr
 ![photo of Ben Cervey](../brand-assets/ben.jpg)
 [Ben Cerveny](ben-bio.md), President
 
-Boris van Hoytema, Chief executive
+![photo of Boris van Hoyteam](../brand-assets/boris.png)
+[Boris van Hoytema](boris-bio.md), Chief executive
 
+![photo of Claus Mullie](../brand-assets/claus.jpg)
+[Claus Mullie](claus-bio.md), Codebase stewardship and member relations coordinator
 
-Claus Mullie, Codebase stewardship and member relations coordinator
-
-![photo of Elena Findley-de Regt](../brand-assets/elena.jpg)
+![photo of Elena Findley-de Regt](../brand-assets/elena-160x165.jpg)
 [Elena Findley-de Regt](elena-bio.md), Communications coordinator
-
 
 Eric Herman, Lead codebase steward
 
 [Jan Ainali](jan-bio.md), Codebase steward
-
-Mirjam van Tiel, Value and finances lead

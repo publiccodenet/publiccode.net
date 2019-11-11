@@ -7,6 +7,7 @@ Jan has been a policy advisor on digital issues in the European Parliament for a
 Jan has a bachelor of science in innovation and design engineering from University of Karlstad and the major in upper secondary school was computer science.
 
 Ask Jan about:
+
 * Collaborative processes
 * Working in the open
 * Free licenses

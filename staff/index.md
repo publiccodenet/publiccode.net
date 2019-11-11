@@ -17,6 +17,7 @@ Claus Mullie, Codebase stewardship and member relations coordinator
 
 [Eric Herman](eric-bio.md), Lead codebase steward
 
+![photo of Jan Ainali](../brand-assets/jan.jpg)
 [Jan Ainali](jan-bio.md), Codebase steward
 
 Mirjam van Tiel, Value and finances lead

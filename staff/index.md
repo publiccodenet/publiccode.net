@@ -6,7 +6,7 @@ We're a multidisciplinary team with years of experience in government digital tr
 ![photo of Ben Cervey](../brand-assets/ben.jpg)
 [Ben Cerveny](ben-bio.md), President
 
-![photo of Boris van Hoyteam](../brand-assets/boris.png)
+![photo of Boris van Hoyteam](../brand-assets/Boris.png)
 [Boris van Hoytema](boris-bio.md), Chief executive
 
 ![photo of Claus Mullie](../brand-assets/claus.jpg)

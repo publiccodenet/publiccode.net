@@ -6,7 +6,7 @@ We're a multidisciplinary team with years of experience in government digital tr
 ![photo of Ben Cervey](../brand-assets/ben.jpg)
 [Ben Cerveny](ben-bio.md), President
 
-![photo of Boris van Hoyteam](../brand-assets/Boris.png)
+![photo of Boris van Hoyteam](../brand-assets/boris.png)
 [Boris van Hoytema](boris-bio.md), Chief executive
 
 ![photo of Claus Mullie](../brand-assets/claus.jpg)
@@ -15,7 +15,7 @@ We're a multidisciplinary team with years of experience in government digital tr
 ![photo of Elena Findley-de Regt](../brand-assets/elena-160x165.jpg)
 [Elena Findley-de Regt](elena-bio.md), Communications coordinator
 
-![photo of Eric Herman](../brand-assets/eric.JPG)
+![photo of Eric Herman](../brand-assets/eric.jpg)
 [Eric Herman](eric-bio.md), Lead codebase steward
 
 ![photo of Jan Ainali](../brand-assets/jan.jpg)

@@ -1,7 +1,7 @@
 
 # Our staff
 
-We're a multidisciplinary team with years of experience in government digital transformation, open source and building collaborative networks. [Read more about how roles are structured](https://about.publiccode.net/organization/staff.html).
+We're a multidisciplinary team with years of experience in government digital transformation, open source and building collaborative networks.
 
 ![photo of Ben Cervey](../brand-assets/ben.jpg)
 [Ben Cerveny](ben-bio.md), President
@@ -20,3 +20,5 @@ We're a multidisciplinary team with years of experience in government digital tr
 
 ![photo of Jan Ainali](../brand-assets/jan.jpg)
 [Jan Ainali](jan-bio.md), Codebase steward
+
+[Read more about how roles are structured](https://about.publiccode.net/organization/staff.html), or [come work with us!](../careers/index.md).

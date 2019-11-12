@@ -15,6 +15,7 @@ We're a multidisciplinary team with years of experience in government digital tr
 ![photo of Elena Findley-de Regt](../brand-assets/elena-160x165.jpg)
 [Elena Findley-de Regt](elena-bio.md), Communications coordinator
 
+![photo of Eric Herman](../brand-assets/eric.jpg)
 [Eric Herman](eric-bio.md), Lead codebase steward
 
 ![photo of Jan Ainali](../brand-assets/jan.jpg)

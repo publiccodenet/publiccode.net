@@ -1,4 +1,6 @@
-Eric Herman is the Foundation for Public Code's Lead Codebase Steward for Quality. With two decades of experience, he brings the perspectives of codebases of many languages and development practices.
+# Eric Herman
+
+Eric is the Foundation for Public Code's Lead Codebase Steward for Quality. With two decades of experience, he brings the perspectives of codebases of many languages and development practices.
 
 He worked as a developer for MySQL and remains active in the Free and Open Source Software database community. He continues to contribute to MySQL and MariaDB. Eric serves as the chairman of the board of directors of the MariaDB Foundation.
 

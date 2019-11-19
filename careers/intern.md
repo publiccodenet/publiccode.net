@@ -64,7 +64,7 @@ The position of intern codebase steward can be fulfilled either in our Amsterdam
 
 We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
 
-If you want to know more about the position, please get in touch with Mirjam van Tiel at mirjam@publiccode.net with:
+If you want to know more about the position, please get in touch with via hr@publiccode.net with:
 
 * your internship prososal
 * a cover letter

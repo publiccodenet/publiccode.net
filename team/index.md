@@ -1,4 +1,4 @@
-# Pleased to meet you!
+# Meet us
 
 We're a multidisciplinary team with years of experience in government digital transformation, open source and building collaborative networks.
 

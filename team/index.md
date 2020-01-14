@@ -11,6 +11,10 @@ We're a multidisciplinary team with years of experience in government digital tr
 ## The team
 
 <style>
+    main .content {
+        width: 100%;
+        flex: 1 1 100%;
+    }
     #team-list {
         list-style: none;
         padding: 0 0 0 0;
@@ -18,6 +22,7 @@ We're a multidisciplinary team with years of experience in government digital tr
         flex-wrap: wrap;
         justify-content: space-around;
         align-items: flex-start;
+        max-width: 100%;
     }
     #team-list>li {
         display: block;

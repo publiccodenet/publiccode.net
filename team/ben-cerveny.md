@@ -1,7 +1,7 @@
 ---
 type: Bio
 role: President
-photo: ben-cerveny.jpg
+image: ben-cerveny.jpg
 ---
 
 # Ben Cerveny

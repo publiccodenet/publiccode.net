@@ -41,7 +41,7 @@ We're a multidisciplinary team with years of experience in government digital tr
 {% assign bios = site.pages | where: 'type', 'Bio' %}
 {% for bio in bios %}
 <li>
-    {% if bio.photo %}<a href="{{bio.url}}"><img src="{{bio.photo}}" alt="Photo of {{bio.title}}"></a>{% endif %}
+    {% if bio.image %}<a href="{{bio.url}}"><img src="{{bio.image}}" alt="Photo of {{bio.title}}"></a>{% endif %}
     <h3><a href="{{bio.url}}">{{ bio.title }}</a></h3>
     <p>{{ bio.role }}</p>
 </li>

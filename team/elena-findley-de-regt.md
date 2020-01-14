@@ -1,7 +1,7 @@
 ---
 type: Bio
 role: Coordinator communications
-photo: elena-findley-de-regt.jpg
+image: elena-findley-de-regt.jpg
 ---
 
 # Elena Findley-de Regt

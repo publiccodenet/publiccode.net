@@ -5,7 +5,9 @@ layout: default
 <p class="role">{{ page.role }}</p>
 
 {% if page.image %}
+<a href="{{page.image}}">
 <img src="{{page.image}}" alt="Photo of {{page.title}}">
+</a>
 {% endif %}
 
 {{ content }}

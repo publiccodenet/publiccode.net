@@ -1,5 +1,6 @@
 ---
 toc: false
+layout: default
 ---
 
 # Meet us

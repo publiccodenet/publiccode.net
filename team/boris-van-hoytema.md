@@ -1,7 +1,7 @@
 ---
 type: Bio
 role: Chief executive
-image: boris-van-hoytema.png
+image: boris-van-hoytema.jpg
 ---
 
 # Boris van Hoytema

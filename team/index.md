@@ -32,9 +32,10 @@ We're a multidisciplinary team with years of experience in government digital tr
         max-width: 20em;
         margin: 1em;
     }
-    #team-list>li>a>img {
+    #team-list>li>a>svg {
         display: block;
         width: 100%;
+        background-color: #5B57CA
     }
     #team-list>li>a>h3,
     #team-list>li>a>p {
@@ -49,7 +50,13 @@ We're a multidisciplinary team with years of experience in government digital tr
 {% assign bios = site.pages | where: 'type', 'Bio' %}
 {% for bio in bios %}
 <li>
-    {% if bio.image %}<a href="{{bio.url}}"><img src="{{bio.image}}" alt="Photo of {{bio.title}}"></a>{% endif %}
+    <a href="{{bio.url}}">
+        <svg viewBox="0 0 100 100">
+    {% if bio.image %}
+            <image href="{{bio.image}}" alt="Photo of {{bio.title}}" height="100" width="100" preserveAspectRatio="xMidYMid slice"/>
+    {% endif %}
+        </svg>
+    </a>
     <h3><a href="{{bio.url}}">{{ bio.title }}</a></h3>
     <p>{{ bio.role }}</p>
 </li>

@@ -1,3 +1,9 @@
+---
+type: Bio
+role: President
+photo: ben-cerveny.jpg
+---
+
 # Ben Cerveny
 
 For over 25 years Ben Cerveny has worked as an executive, strategist, and designer in the context of operating systems, media applications, web services, products, the built environment, and digital games.  

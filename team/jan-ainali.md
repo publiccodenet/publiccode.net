@@ -1,3 +1,9 @@
+---
+type: Bio
+role: Codebase steward
+photo: jan-ainali.jpg
+---
+
 # Jan Ainali
 
 Jan is working with developing tools, processes and collecting best practices for community building amongst the codebases in stewardship.

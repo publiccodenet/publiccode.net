@@ -1,3 +1,9 @@
+---
+type: Bio
+role: Coordinator codebase stewardship and member development
+photo: claus-mullie.jpg
+---
+
 # Claus Mullie
 
 As a coordinator, Claus both enables our team of stewards in delivering codebase stewardship, as well as supports our members with onboarding and policy.

@@ -1,3 +1,9 @@
+---
+type: Bio
+role: Chief executive
+photo: boris-van-hoytema.png
+---
+
 # Boris van Hoytema
 
 Having a hard time in school, Boris van Hoytema found out that you can learn anything you want on the internet and that whenever you’re stuck, there are others that want to help.

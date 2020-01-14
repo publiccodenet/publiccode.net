@@ -2,11 +2,20 @@
 layout: default
 ---
 
-<p class="role">{{ page.role }}</p>
+<style>
+    p.bio-role {
+        font-size: 1.5em;
+    }
+    img.bio-image {
+        margin-bottom: 1em;
+    }
+</style>
+
+<p class="bio-role">{{ page.role }}</p>
 
 {% if page.image %}
 <a href="{{page.image}}">
-<img src="{{page.image}}" alt="Photo of {{page.title}}">
+<img class="bio-image" src="{{page.image}}" alt="Photo of {{page.title}}">
 </a>
 {% endif %}
 

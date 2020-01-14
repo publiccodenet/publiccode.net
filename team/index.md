@@ -22,13 +22,15 @@ We're a multidisciplinary team with years of experience in government digital tr
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
-        align-items: flex-start;
+        align-items: first baseline;
         max-width: 100%;
     }
     #team-list>li {
         display: block;
         max-width: 165px;
-        margin-bottom: 1em;
+        width: 100%;
+        max-width: 20em;
+        margin: 1em;
     }
     #team-list>li>a>img {
         display: block;

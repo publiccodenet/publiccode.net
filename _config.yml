@@ -9,3 +9,11 @@ titles_from_headings:
 
 show_breadcrumbs: true
 toc: true
+
+defaults:
+  -
+    scope:
+      path: "team"
+    values:
+      layout: "bio"
+      toc: false

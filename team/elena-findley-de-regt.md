@@ -1,3 +1,9 @@
+---
+type: Bio
+role: Coordinator communications
+image: elena-findley-de-regt.jpg
+---
+
 # Elena Findley-de Regt
 
 Elena’s responsible for how the Foundation communicates, including our information design, content strategy and storytelling. Elena keeps the team user focused and champions the Foundation’s ‘publish once, reuse often and iterate’ approach to content creation.

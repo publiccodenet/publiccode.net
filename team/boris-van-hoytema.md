@@ -14,4 +14,3 @@ Boris on the web:
 
 * [Twitter](https://twitter.com/bvhme)
 * [GitHub](https://github.com/bvhme)
-* [LinkedIn](https://www.linkedin.com/in/borisvanhoytema)

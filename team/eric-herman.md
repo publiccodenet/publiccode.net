@@ -1,3 +1,9 @@
+---
+type: Bio
+role: Lead codebase steward
+image: eric-herman.jpg
+---
+
 # Eric Herman
 
 Eric is the Foundation for Public Code's Lead Codebase Steward for Quality. With two decades of experience, he brings the perspectives of codebases of many languages and development practices.

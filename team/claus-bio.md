@@ -7,8 +7,3 @@ Claus is fascinated by governance in large-scale complex systems, particularly a
 Previously, Claus was community and project manager for the [SCORE community](https://score.community/) - helping public sector organizations work together openly. He has also consulted governments on both opening up their procurement processes for innovation and future proofing of their core infrastructure. While working at the European Commission, Claus contributed to the development of policy and innovation agendas for public sector digitalisation at a European level.
 
 Claus holds an MSc in Urbanisation and Development from the London School of Economics and Political Science and a BSc in Politics and International Relations from the University of Manchester.
-
-Find out more at:
-
-* [LinkedIn](https://www.linkedin.com/in/clausmullie)
-* [GitHub](https://github.com/clausmullie)

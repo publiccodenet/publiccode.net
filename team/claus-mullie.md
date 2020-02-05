@@ -1,4 +1,3 @@
-
 ---
 type: Bio
 role: Coordinator codebase stewardship and member development

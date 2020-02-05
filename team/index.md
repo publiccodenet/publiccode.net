@@ -1,23 +1,64 @@
+---
+toc: false
+layout: default
+---
+
 # Meet us
 
 We're a multidisciplinary team with years of experience in government digital transformation, open source and building collaborative networks.
 
-![photo of Ben Cervey](../brand-assets/ben.jpg)
-[Ben Cerveny](ben-bio.md), President
+[Read more about how roles are structured](https://about.publiccode.net/organization/staff.html), or [come work with us!](../careers/index.md).
 
-![photo of Boris van Hoyteam](../brand-assets/boris.png)
-[Boris van Hoytema](boris-bio.md), Chief executive
+## The team
 
-![photo of Claus Mullie](../brand-assets/claus.jpg)
-[Claus Mullie](claus-bio.md), Codebase stewardship and member relations coordinator
+<style>
+    main .content {
+        width: 100%;
+        flex: 1 1 100%;
+    }
+    #team-list {
+        list-style: none;
+        padding: 0 0 0 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: first baseline;
+        max-width: 100%;
+    }
+    #team-list>li {
+        display: block;
+        max-width: 165px;
+        width: 100%;
+        max-width: 20em;
+        margin: 1em;
+    }
+    #team-list>li>a>svg {
+        display: block;
+        width: 100%;
+        background-color: #5B57CA
+    }
+    #team-list>li>a>h3,
+    #team-list>li>a>p {
+        text-decoration: none;
+    }
+    .markdown-body li + li {
+        margin-top: 0;
+    }
+</style>
 
-![photo of Elena Findley-de Regt](../brand-assets/elena-160x165.jpg)
-[Elena Findley-de Regt](elena-bio.md), Communications coordinator
-
-![photo of Eric Herman](../brand-assets/eric.jpg)
-[Eric Herman](eric-bio.md), Lead codebase steward
-
-![photo of Jan Ainali](../brand-assets/jan.jpg)
-[Jan Ainali](jan-bio.md), Codebase steward
-
-> [Read more about how roles are structured](https://about.publiccode.net/organization/staff.html), or [come work with us!](../careers/index.md).
+<ul id="team-list">
+{% assign bios = site.pages | where: 'type', 'Bio' %}
+{% for bio in bios %}
+<li>
+    <a href="{{bio.url}}">
+        <svg viewBox="0 0 100 100">
+    {% if bio.image %}
+            <image href="{{bio.image}}" alt="Photo of {{bio.title}}" height="100" width="100" preserveAspectRatio="xMidYMid slice"/>
+    {% endif %}
+        </svg>
+    </a>
+    <h3><a href="{{bio.url}}">{{ bio.title }}</a></h3>
+    <p>{{ bio.role }}</p>
+</li>
+{% endfor %}
+</ul>

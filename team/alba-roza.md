@@ -6,7 +6,7 @@ image: alba-roza.jpg
 
 # Alba Roza
 
-Alba is a Codebase Steward focused on supporting communities. She is a Developer Relations professional, who has been working in Tech Communication and Marketing since 2011. A common face in technical conferences, she is specialized in software communities, the scope of the last six years of her professional career. 
+Alba is a Codebase Steward focused on supporting communities. She is a Developer Relations professional, who has been working in Tech Communication and Marketing since 2011. She is a familiar sight at technical conferences, and specialized in software communities: the focus of her professional career during the last six years. 
 
 Before joining the Foundation for Public Code she worked for Codemotion Conference (one of the biggest in EMEA) as the Project Manager for Communities of Northern Europe. Here she strengthened liaisons with software communities, mainly Netherlands, Germany and Spain.
 

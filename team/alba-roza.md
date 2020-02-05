@@ -1,6 +1,6 @@
 ---
 type: Bio
-role: Codebase Steward for Communites
+role: Codebase steward for communites
 image: alba-roza.jpg
 ---
 

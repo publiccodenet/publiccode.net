@@ -1,7 +1,7 @@
 
 # Where we work: our codebases
 
-The Foundation for Public Code supports ambitious communities and their codebases to scale effectively, including smoother collaboration and shared governance.
+The Foundation for Public Code helps to effectively scale codebases. We do this by supporting ambitious communities to build shared governance practices and smooth collaboration around their codebases.
 
 Codebases are organized by [codebase maturity](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
 

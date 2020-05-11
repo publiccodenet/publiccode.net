@@ -1,7 +1,7 @@
 ---
 type: Bio
 role: Codebase steward
-image: felix-faassen.png
+image: felix-faassen.jpg
 ---
 
 # Felix Faassen

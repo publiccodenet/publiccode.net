@@ -1,6 +1,6 @@
 # Homepage at [publiccode.net](https://publiccode.net)
 
-This website is the homepage for the Foundation for Public Code. It is a portal to the content that the Foundation for Public Code has to offer.
+This website is the homepage for the Foundation for Public Code. It is where we introduce and explain ourselves to the outside world next to being a portal to the content that the Foundation for Public Code has to offer.
 
 ## Installing
 

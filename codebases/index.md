@@ -29,9 +29,3 @@ These codebases are currently in incubation:
 Mature codebases and communities fully meet the Standard for Public Code.
 
 There are currently no mature codebases under Foundation stewardship.
-
-## Attic
-
-Codebases and communitities that were once Standard compliant but aren't any more are in the attic.
-
-There are currently no codebases in our attic.

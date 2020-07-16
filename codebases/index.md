@@ -1,7 +1,7 @@
 
 # Where we work: our codebases
 
-The Foundation for Public Code helps to effectively scale codebases. We do this by supporting ambitious communities to build shared governance practices and smooth collaboration around their codebases.
+The Foundation for Public Code helps to effectively scale codebases. We do this by supporting ambitious communities with [codebase stewardship](../codebase-stewardship/index.html).
 
 Codebases are organized by [codebase maturity](https://about.publiccode.net/activities/codebase-stewardship/lifecycle.html).
 
@@ -18,7 +18,7 @@ These codebases are currently in public assessment:
 
 ## Incubation
 
-Codebases in incubation are working to comply with the [Standard for Public Code](https://standard.publiccode.net/).
+Codebases in incubation are working to meet the [Standard for Public Code](https://standard.publiccode.net/).
 
 These codebases are currently in incubation:
 

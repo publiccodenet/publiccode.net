@@ -14,7 +14,7 @@ In this phase, codebase communities and the Foundation for Public Code decide if
 
 These codebases are currently in public assessment:
 
-* [Signalen](https://github.com/Amsterdam/signals): receiving, automatically classifying and prioritising residents’ nuisance reports
+* [Signalen](https://signalen.org/): receiving, automatically classifying and prioritising residents’ nuisance reports
 
 ## Incubation
 

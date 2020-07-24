@@ -10,6 +10,10 @@ titles_from_headings:
 show_breadcrumbs: true
 toc: true
 
+# Include well known file needed for matrix / riot.im service discovery
+include:
+  - .well-known
+
 defaults:
   -
     scope:

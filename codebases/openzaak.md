@@ -20,13 +20,13 @@ We're helping launch the OpenZaak open source ecosystem by:
 
 ## Technology
 
-Python
+Languages and frameworks: Python
 
 ## Community
 
 Created by: a coalition of more than 45 Dutch municipalities including Amsterdam, Arnhem, Delft, Haarlem, ’s-Hertogenbosch, Rotterdam, Tilburg, Hoorn, Medemblik, Utrecht, SED (composed of Stede Broec, Enkhuizen and Drechterland) and [Dimpact](https://www.dimpact.nl/) (composed of more than 30 municipalities) (2019)
 
-Replicating: The commissioning municipalities are currently looking for vendors who can offer them services using OpenZaak. They held a market consultation in spring 2020.
+Replicating: The commissioning municipalities are preparing to procure services using OpenZaak, based on their spring 2020 market consultation.
 
 ## Opportunity
 
@@ -41,5 +41,6 @@ OpenZaak maintainers see meeting the [Standard for Public Code](https://standard
 
 ## Find out more
 
-[Github repo](https://github.com/open-zaak/open-zaak)
-[Draft product website](https://openzaak.publiccode.net/)
+* [Github repo](https://github.com/open-zaak/open-zaak)
+
+* [Draft product website](https://openzaak.publiccode.net/)

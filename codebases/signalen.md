@@ -32,7 +32,7 @@ Languages and frameworks: Django Python
 
 Created by: Amsterdam, the Netherlands (2018)
 
-Replicating: Strong interest from other Dutch cities and the Association of Dutch Municipalities (VNG, representing 355 municipalities), as well as Ghent (Belgium) as part of the [European SCORE project].
+Replicating: Strong interest from other Dutch cities and the Association of Dutch Municipalities (VNG, representing 355 municipalities), as well as Ghent (Belgium) as part of the European [SCORE project](https://score.community/).
 
 ## Opportunity
 
@@ -40,11 +40,14 @@ Scaling potential: other Dutch municipalities
 
 The Association of Dutch Municipalities (VNG) wants to make it ‘one click deployable’ from their Common Ground appstore.
 
-Amsterdam, the VNG and Den Bosch have asked for our expertise while they refactor the codebase to be more modular and reusable while it’s in production in Amsterdam.
+Amsterdam, the VNG and 's-Hertogenbosch have asked for our expertise while they refactor the codebase to be more modular and reusable while it’s in production in Amsterdam.
 
 ## Find out more
 
-[Signalen website](https://signalen.org/)
-[Github: backend](https://github.com/Amsterdam/signals)
-[Github: fronted](https://github.com/Amsterdam/signals-frontend)
-[Amsterdam public interface](https://meldingen.amsterdam.nl/)
+* [Signalen website](https://signalen.org/)
+
+* [Github: backend](https://github.com/Amsterdam/signals)
+
+* [Github: fronted](https://github.com/Amsterdam/signals-frontend)
+
+* [Amsterdam public interface](https://meldingen.amsterdam.nl/)

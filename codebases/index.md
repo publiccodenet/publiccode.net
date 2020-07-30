@@ -14,7 +14,7 @@ In this phase, codebase communities and the Foundation for Public Code decide if
 
 These codebases are currently in public assessment:
 
-* [Signalen](https://signalen.org/): receiving, automatically classifying and prioritising residents’ nuisance reports
+* [Signalen](signalen.md/): receiving, automatically classifying and prioritising residents’ nuisance reports
 
 ## Incubation
 
@@ -22,7 +22,7 @@ Codebases in incubation are working to meet the [Standard for Public Code](https
 
 These codebases are currently in incubation:
 
-* [OpenZaak](https://github.com/open-zaak/open-zaak): backend component to help municipalities manage and share data internally
+* [OpenZaak](openzaak.md): backend component to help municipalities manage and share data internally
 
 ## Mature
 

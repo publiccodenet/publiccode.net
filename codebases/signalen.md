@@ -2,6 +2,8 @@
 
 > Stage 1: assessment
 
+![Signalen logo](../photos/Signalen-logo-no-background.png)
+
 ## What it is
 
 Signalen makes it easier for residents to make a nuisance report, and helps the city respond to the most important things first.
@@ -24,6 +26,8 @@ We’re also helping make the codebase more conducive to collaboration, includin
 * engineering guidelines
 * help prepare the community to empower market parties to offer the solution as a service (SaaS)
 
+![Signalen triage interface](../photos/Signalen-user-interface.png)
+
 ## Technology
 
 Languages and frameworks: Django Python
@@ -45,6 +49,7 @@ Amsterdam, the VNG and 's-Hertogenbosch have asked for our expertise while they 
 ## Find out more
 
 * [Signalen website](https://signalen.org/)
+* ["Signalen: helping cities manage and prioritize citizens' reports"](https://www.youtube.com/watch?v=I2Z-mRFt3pg&feature=youtu.be) (video)
 * [Github: backend](https://github.com/Amsterdam/signals)
 * [Github: fronted](https://github.com/Amsterdam/signals-frontend)
 * [Amsterdam public interface](https://meldingen.amsterdam.nl/)

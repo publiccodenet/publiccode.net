@@ -26,11 +26,11 @@ Languages and frameworks: Python
 
 Created by: a coalition of more than 45 Dutch municipalities including Amsterdam, Arnhem, Delft, Haarlem, ’s-Hertogenbosch, Rotterdam, Tilburg, Hoorn, Medemblik, Utrecht, SED (composed of Stede Broec, Enkhuizen and Drechterland) and [Dimpact](https://www.dimpact.nl/) (composed of more than 30 municipalities) (2019)
 
-Replicating: The commissioning municipalities are preparing to procure services using OpenZaak, based on their spring 2020 market consultation.
+Replicating: The commissioning municipalities are preparing to procure services using OpenZaak, based on their spring 2020 market consultation
 
 ## Opportunity
 
-Scaling potential: other Dutch municipalities, other industries that use a case management system (like hospitals or hotels).
+Scaling potential: other Dutch municipalities, other industries that use a case management system (like hospitals or hotels)
 
 We're working closely with the commissioning municipalities to help them grow OpenZaak to a trusted codebase with:
 
@@ -42,5 +42,4 @@ OpenZaak maintainers see meeting the [Standard for Public Code](https://standard
 ## Find out more
 
 * [Github repo](https://github.com/open-zaak/open-zaak)
-
 * [Draft product website](https://openzaak.publiccode.net/)

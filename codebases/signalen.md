@@ -32,7 +32,7 @@ Languages and frameworks: Django Python
 
 Created by: Amsterdam, the Netherlands (2018)
 
-Replicating: Strong interest from other Dutch cities and the Association of Dutch Municipalities (VNG, representing 355 municipalities), as well as Ghent (Belgium) as part of the European [SCORE project](https://score.community/).
+Replicating: Strong interest from other Dutch cities and the Association of Dutch Municipalities (VNG, representing 355 municipalities), as well as Ghent (Belgium) as part of the European [SCORE project](https://score.community/)
 
 ## Opportunity
 
@@ -45,9 +45,6 @@ Amsterdam, the VNG and 's-Hertogenbosch have asked for our expertise while they 
 ## Find out more
 
 * [Signalen website](https://signalen.org/)
-
 * [Github: backend](https://github.com/Amsterdam/signals)
-
 * [Github: fronted](https://github.com/Amsterdam/signals-frontend)
-
 * [Amsterdam public interface](https://meldingen.amsterdam.nl/)

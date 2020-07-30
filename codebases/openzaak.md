@@ -1,6 +1,8 @@
 # OpenZaak
 
-> Stage 1: incubation
+![OpenZaak logo](../photos/openzaak-logo.svg)
+
+> Stage 2: incubation
 
 ## What it is
 
@@ -17,6 +19,8 @@ We're helping launch the OpenZaak open source ecosystem by:
 * running a [market consultation](https://github.com/open-zaak/open-zaak-market-consultation/blob/develop/README.md) to co-create codebase governance and community dynamics, and better understand vendor business models and risk sharing
 * advising on decentralized procurement
 * building the community through shared events, a mailing list and marketing materials
+
+![Screenshot of the OpenZaak user interface](../photos/openzaak-user-interface.png)
 
 ## Technology
 

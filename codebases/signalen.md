@@ -1,6 +1,6 @@
 # Signalen
 
-> Stage 2: assessment
+> Stage 1: assessment
 
 ## What it is
 

@@ -22,7 +22,7 @@ We’re also helping make the codebase more conducive to collaboration, includin
 * clear branching and gitflow models
 * automated unit tests and integration testing
 * engineering guidelines
-* help prepare the community to empower market parties to offer the solution as SaaS
+* help prepare the community to empower market parties to offer the solution as a service (SaaS)
 
 ## Technology
 

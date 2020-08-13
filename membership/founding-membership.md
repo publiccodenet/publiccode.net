@@ -1,8 +1,8 @@
-# Become a founding member
+# Become a member
 
-We’re currently looking for founding members to help shape the Foundation for Public Code’s long term future by joining us now.
+We’re currently looking for members to help shape the Foundation for Public Code’s long term future by joining us now.
 
-Founding members are forward-thinking public organizations with a strong principled commitment to the existence of an ecosystem of public code. You’ll be willing to take co-ownership of the Foundation and be an advocate for public code.
+Members are forward-thinking public organizations with a strong principled commitment to the existence of an ecosystem of public code. You’ll be willing to take co-ownership of the Foundation and be an advocate for public code.
 
 We are looking for organizations that can:
 
@@ -11,9 +11,9 @@ We are looking for organizations that can:
 
 We’ll open other types of membership from 2020.
 
-## Benefits of being a founding member
+## Benefits of being a member
 
-As a founding member, you’ll shape the Foundation’s processes and governance.
+As a member, you’ll shape the Foundation’s processes and governance.
 
 You will:
 
@@ -38,15 +38,11 @@ We also offer:
 * opportunities for leadership roles in Foundation initiatives
 * a blogpost announcing membership
 
-## Founding membership requirements
+## Membership requirements
 
-To become a founding member you should have both of these:
+To become a member you should have some of these:
 
 * enthusiasm for public code at the most senior levels within your organisation
-* the ability to make in-kind contributions to help us develop our processes and governance, so that they work better for your type of organisation
-
-To become a founding member you should have some of these:
-
 * a willingness to help the Foundation test its onboarding and code auditing processes, so we can get it right
 * the ability to make a significant financial commitment relative to your type and size of organization (especially if you don’t currently have a codebase available, but are invested in creating a future for public code)
 * an open source software solution that you think other public organisations will be interested in reusing
@@ -54,4 +50,4 @@ To become a founding member you should have some of these:
 
 ## How to join the Foundation
 
-If your organization is curious about founding membership, then we’d love to hear from you. Please email us at <membership@publiccode.net>.
+If your organization is curious about membership, then we’d love to hear from you. Please email us at <membership@publiccode.net>.

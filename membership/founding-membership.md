@@ -9,8 +9,6 @@ We are looking for organizations that can:
 * help us validate our code certification and stewardship processes
 * provide material support to create a public code ecosystem
 
-We’ll open other types of membership from 2020.
-
 ## Benefits of being a member
 
 As a member, you’ll shape the Foundation’s processes and governance.

@@ -14,6 +14,9 @@ toc: true
 include:
   - .well-known
 
+plugins: 
+  - jekyll-redirect-from
+  
 defaults:
   -
     scope:

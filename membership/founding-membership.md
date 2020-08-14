@@ -2,9 +2,7 @@
 
 We’re currently looking for members to help shape the Foundation for Public Code’s long term future.
 
-Members are forward-thinking public organizations with a strong commitment to the existence of an ecosystem of public code. As a member you'll help create a global community of public code empowered organizations that pool resources and collaborate in the digital transformation of modern government.
-
-The Foundation for Public Code was set up to help public organizations develop and maintain software together. This results in higher quality services for the public that are more cost effective, with less risk and more local control.
+Members are forward-thinking public organizations with a strong commitment to the existence of an ecosystem of public code. As a member you'll help create a global community of public code empowered organizations that pool resources and collaborate in the digital transformation of modern government. This results in higher quality services for the public that are more cost effective, with less risk and more local control.
 
 Sound interesting? Find out more [about becoming a member](https://about.publiccode.net/activities/membership-growth/) and get in touch with us!
 
@@ -33,8 +31,8 @@ To become a member you should be a publicly owned organization (such as a city, 
 
 * enthusiasm for public code at the most senior levels within your organisation
 * a willingness to help improve the Foundation onboarding and code auditing processes
-* the ability to make a significant financial commitment relative to your type and size of organization (especially if you don’t currently have a codebase available, but are invested in creating a future for public code)
 * an open source software solution that you think other public organisations will be interested in reusing
+* the ability to make a significant financial commitment relative to your type and size of organization (especially if you don’t currently have a codebase available, but are invested in creating a future for public code)
 * a development team and policy experts able to work with the Foundation to refactor and document your software and policy so that they meet the [Standard for Public Code](https://standard.publiccode.net)
 
 ## How to join the Foundation

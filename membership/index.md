@@ -5,7 +5,7 @@ redirect_from:
 
 # Become a member
 
-We’re currently looking for members to help shape the Foundation for Public Code’s long term future.
+We’re looking for members to help shape the Foundation for Public Code’s long term future.
 
 Members are forward-thinking public organizations with a strong commitment to the existence of an ecosystem of public code. As a member you'll help create a global community of public code empowered organizations that pool resources and collaborate in the digital transformation of modern government. By benefiting from and supporting [codebase stewardship](https://publiccode.net/codebase-stewardship/), you'll help create higher quality services for the public that are more cost effective, with less risk and more local control.
 

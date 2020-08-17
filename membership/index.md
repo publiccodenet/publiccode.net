@@ -1,3 +1,8 @@
+---
+redirect_from: 
+    - membership/founding-membership
+---
+
 # Become a member
 
 We’re currently looking for members to help shape the Foundation for Public Code’s long term future.
@@ -21,7 +26,7 @@ Further benefits of membership include being able to:
 * steer the Foundation’s pipeline towards projects you’d like to reuse
 * gain recognition as a leader of systemic digital transformation
 * demonstrate return on IT investments from higher levels of administration
-* increase the security and quality of your code through continuous auditing resources
+* increasing the security and quality of your code through continuous auditing resources
 * access Foundation leaders and advisors for open source strategy discussions
 * learn from and share experience with other bold, innovative public organizations and leaders in the sector
 

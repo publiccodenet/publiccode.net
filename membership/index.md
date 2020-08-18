@@ -26,7 +26,7 @@ Further benefits of membership include being able to:
 * steer the Foundation’s pipeline towards projects you’d like to reuse
 * gain recognition as a leader of systemic digital transformation
 * demonstrate return on IT investments from higher levels of administration
-* increasing the security and quality of your code through continuous auditing resources
+* increasing the quality and security of your code through codebase stewardship and additional resources
 * access Foundation leaders and advisors for open source strategy discussions
 * learn from and share experience with other bold, innovative public organizations and leaders in the sector
 

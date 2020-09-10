@@ -2,6 +2,8 @@
 type: Bio
 role: Coordinator codebase stewardship and member development
 image: claus-mullie.jpg
+redirect_from:
+    - team/claus-mullie.md
 ---
 
 # Claus Mullie

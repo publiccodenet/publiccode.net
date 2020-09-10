@@ -2,6 +2,8 @@
 type: Bio
 role: Lead codebase steward
 image: eric-herman.jpg
+redirect_from:
+    - team/eric-herman.md
 ---
 
 # Eric Herman

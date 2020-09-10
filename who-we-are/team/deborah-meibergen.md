@@ -2,6 +2,8 @@
 type: Bio
 role: Coordinator operations
 image: deborah-meibergen.jpg
+redirect_from:
+    - team/deborah-meibergen.md
 ---
 
 # Deborah Meibergen

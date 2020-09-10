@@ -1,6 +1,8 @@
 ---
 type: Position
 excerpt: Join us as either a junior codebase steward or general intern (Flexible, Amsterdam or remote)
+redirect_from:
+    - careers/intern.md
 ---
 
 # Internship program

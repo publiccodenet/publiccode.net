@@ -1,6 +1,8 @@
 ---
 type: Position
 excerpt: Provide answers to questions about usage, contributing, procurement and more (Full time, Amsterdam)
+redirect_from:
+    - careers/support.md
 ---
 
 # Codebase steward for support

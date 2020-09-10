@@ -1,3 +1,8 @@
+---
+redirect_from:
+    - careers/index.md
+---
+
 # Careers
 
 Join our mission to enable public-purpose software and policy that is open and collaborative.

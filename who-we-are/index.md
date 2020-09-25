@@ -7,7 +7,7 @@ redirect_from:
 
 # Meet us
 
-TThe Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and Arnout Schuijff  in 2019 to guide international collaboration among public organizations around codebase design, quality and governance.
+The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and Arnout Schuijff in 2019 to guide international collaboration among public organizations around codebase design, quality and governance.
 
 Leveraging 30 combined years of experience working with cities and technology-enabled collaboration, Boris and Ben recognized policy and whitepapers were ineffective catalysts in this space. Their landscape analysis revealed that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation.
 

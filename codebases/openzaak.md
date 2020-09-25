@@ -46,4 +46,4 @@ OpenZaak maintainers see meeting the [Standard for Public Code](https://standard
 ## Find out more
 
 * [Github repo](https://github.com/open-zaak/open-zaak)
-* [Draft product website](https://openzaak.publiccode.net/)
+* [OpenZaak website](https://openzaak.org/)

@@ -63,7 +63,7 @@ Together, we're a multidisciplinary team with years of experience in government 
     <a href="{{bio.url}}">
         <svg viewBox="0 0 100 100">
     {% if bio.image %}
-            <image href="{{bio.image}}" alt="Photo of {{bio.title}}" height="100" width="100" preserveAspectRatio="xMidYMid slice"/>
+            <image href="team/{{bio.image}}" alt="Photo of {{bio.title}}" height="100" width="100" preserveAspectRatio="xMidYMid slice"/>
     {% endif %}
         </svg>
     </a>

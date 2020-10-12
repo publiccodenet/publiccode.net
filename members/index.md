@@ -1,6 +1,6 @@
 # Our members
 
-The Foundation for Public Code is a non-profit association of wholly publicly owned organizations. We're proud of our members, all forward-thinking public organizations with a strong commitment to the existence of an ecosystem of public code.
+The Foundation for Public Code is a non-profit association of publicly owned organizations such as municipalities, regional and national governments. Together, they spearhead the digital transformation of government by pooling resources to jointly develop and maintain public code.
 
 Our members are:
 

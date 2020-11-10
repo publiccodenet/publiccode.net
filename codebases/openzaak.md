@@ -46,8 +46,4 @@ OpenZaak maintainers see meeting the [Standard for Public Code](https://standard
 ## Find out more
 
 * [Github repo](https://github.com/open-zaak/open-zaak)
-<<<<<<< HEAD
 * [OpenZaak website](https://openzaak.org/)
-=======
-* [Draft product website](https://openzaak.publiccode.net/)
->>>>>>> parent of 53dcbec... delete codebase overview .md files, add images folder

@@ -13,13 +13,13 @@ Leveraging 30 combined years of experience working with cities and technology-en
 
 Based on their experience of technological innovation in a traditional industry, Arnout and Pieter van der Does (co-founders of the Adyen payments platform) agreed with Ben and Boris that public organizations deserved better software. They joined the Board of Directors to share their expertise and connections.
 
-[See our blog](https://blog.publiccode.net/) for all our most recent news.
+[See our blog](https://blog.publiccode.net/) for what we're up to now.
 
 ## The team
 
 Together, we're a multidisciplinary team with years of experience in government digital transformation, open source and building collaborative networks.
 
-[Read more about how roles are structured](https://about.publiccode.net/organization/staff.html), or [come work with us!](careers/index.md).
+[Read more about how roles are structured](https://about.publiccode.net/organization/staff.html), or [come work with us!](careers/index.md)
 
 <style>
     main .content {

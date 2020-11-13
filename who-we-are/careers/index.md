@@ -5,7 +5,7 @@ redirect_from:
 
 # Careers
 
-Join our mission to enable public-purpose software and policy that is open and collaborative.
+Join us in enabling public-purpose software and policy that is open and collaborative.
 
 ## Open positions
 

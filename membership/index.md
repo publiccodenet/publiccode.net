@@ -3,17 +3,25 @@ redirect_from:
     - membership/founding-membership
 ---
 
-# Become a member
+# Our members
+
+The Foundation for Public Code is a non-profit association of publicly owned organizations such as municipalities, regional and national governments. Together, they spearhead the digital transformation of government by pooling resources to jointly develop and maintain public code.
+
+Our members are:
+
+* Provincie Zuid-Holland, the Netherlands ([joined July 2020](https://www.zuid-holland.nl/publish/pages/25949/cf6_gs_brief_-_lidmaatschap_vereniging_foundation_for_public_code_-_dos-2016-0004358.pdf))
+
+## Become a member
 
 We’re looking for members to help shape the Foundation for Public Code’s long term future.
 
-Members are forward-thinking public organizations with a strong commitment to the existence of an ecosystem of public code. As a member you'll help create a global community of public code empowered organizations that pool resources and collaborate in the digital transformation of modern government. By benefiting from and supporting [codebase stewardship](https://publiccode.net/codebase-stewardship/), you'll help create higher quality services for the public that are more cost effective, with less risk and more local control.
+Members are forward-thinking public organizations with a strong commitment to the existence of an ecosystem of public code. As a member you'll be part of a global community of public code empowered organizations collaborating on the digital transformation of modern government. By benefiting from and supporting [codebase stewardship](https://publiccode.net/codebase-stewardship/), you'll help create higher quality services for the public that are more cost effective, with less risk and more local control.
 
 Sound interesting? Find out more [about becoming a member](https://about.publiccode.net/activities/membership-growth/) and get in touch with us!
 
 ## Benefits of being a member
 
-As a member, you’ll shape the Foundation’s processes and governance.
+Members shape the Foundation’s processes and governance.
 
 We will help you approach your digital systems in a way that promotes effective and high quality delivery, as well as:
 
@@ -25,10 +33,10 @@ Further benefits of membership include being able to:
 
 * steer the Foundation’s pipeline towards projects you’d like to reuse
 * gain recognition as a leader of systemic digital transformation
-* demonstrate return on IT investments from higher levels of administration
+* demonstrate return on IT investments
 * increase the quality and security of your code through codebase stewardship
 * access Foundation leaders and advisors for open source strategy discussions
-* learn from and share experience with other bold, innovative public organizations and leaders in the sector
+* learn from and share experiences with other bold, innovative public organizations and leaders in the sector
 
 ## Membership requirements
 

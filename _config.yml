@@ -16,6 +16,7 @@ include:
 
 plugins: 
   - jekyll-redirect-from
+  - jekyll-coffeescript
   
 defaults:
   -

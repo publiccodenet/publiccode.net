@@ -11,7 +11,7 @@ The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and
 
 Leveraging 30 combined years of experience working with cities and technology-enabled collaboration, Boris and Ben recognized policy and whitepapers were ineffective catalysts in this space. Their landscape analysis revealed that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation.
 
-Based on their experience of technological innovation in a traditional industry, Arnout and Pieter van der Does (co-founders of the Adyen payments platform) agreed with Ben and Boris that public organizations deserved better software. They joined the Board of Directors to share their expertise and connections.
+Based on their experience of technological innovation in a traditional industry, Pieter van der Does and Arnout Schuijff (co-founders of the Adyen payments platform) agreed with Ben and Boris that public organizations deserved better software. They joined the Board of Directors to share their expertise and connections.
 
 [See our blog](https://blog.publiccode.net/) for what we're up to now.
 

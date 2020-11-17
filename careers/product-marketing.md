@@ -1,8 +1,6 @@
 ---
 type: Position
 excerpt: Make codebases strong competitors to other solutions out there (Full time, Amsterdam)
-redirect_from:
-    - careers/product-marketing.md
 ---
 
 # Codebase steward for product marketing

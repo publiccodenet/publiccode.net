@@ -1,8 +1,6 @@
 ---
 type: Position
 excerpt: Grow strong communities around the codebases (Full time, Amsterdam)
-redirect_from:
-    - careers/community.md
 ---
 
 # Codebase steward for community

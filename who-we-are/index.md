@@ -19,7 +19,7 @@ Based on their experience of technological innovation in a traditional industry,
 
 Together, we're a multidisciplinary team with years of experience in government digital transformation, open source and building collaborative networks.
 
-[Read more about how roles are structured](https://about.publiccode.net/organization/staff.html), or [come work with us!](careers/index.md)
+[Read more about how roles are structured](https://about.publiccode.net/organization/staff.html), or [come work with us!](../careers/index.md)
 
 <style>
     main .content {

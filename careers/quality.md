@@ -1,8 +1,6 @@
 ---
 type: Position
 excerpt: Help developers build high quality public code (Full time, Amsterdam)
-redirect_from:
-    - careers/quality.md
 ---
 
 # Codebase steward for quality

@@ -17,4 +17,4 @@ In 2010 he co-founded [QuestionMark](https://www.thequestionmark.org/en), an ope
 
 Felix loves jazz and classical music. He plays piano and loves (analog) synthesizers. Plays live music in a jazz fusion band and composes his own music. When not making music he is enjoying time with his family and enjoying nature in all its beauty and wonder.
 
-[GitHub](https://github.com/felixfaassen)/[Twitter](https://twitter.com/felixfaassen)
+* [GitHub](https://github.com/felixfaassen)

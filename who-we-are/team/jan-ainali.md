@@ -21,4 +21,4 @@ Ask Jan about:
 * Working in the open
 * Free licenses
 
-[Github](https://github.com/ainali)/[Twitter](https://twitter.com/jan_ainali)
+* [Github](https://github.com/ainali)

@@ -8,6 +8,10 @@ layout: site
 
 <main>
 
+{% if site.show_breadcrumbs %}
+  {% include breadcrumbs.liquid %}
+{% endif %}
+
 {{ content }}
 
 </main>

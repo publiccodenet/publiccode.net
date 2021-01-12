@@ -12,4 +12,4 @@ Previously, Elena was content product lead and managing editor at the UK Governm
 
 Elena holds an MA in International Relations and Diplomacy from Leiden University (the Netherlands), and a BA in History and International and Comparative Policy Studies from Reed College (USA).
 
-[Github](https://github.com/ElenaFdR)/[Twitter](https://twitter.com/ejfdr)
+* [Github](https://github.com/ElenaFdR)

@@ -15,4 +15,4 @@ Before joining the Foundation for Public Code she worked for Codemotion Conferen
 
 Alba likes to contribute back to Communities via [interviews](https://www.youtube.com/playlist?list=PLKxa4AIfm4pUMqBpORJUN3AsHPyA02N9k), as a speaker, mentor, specially for [women in tech](https://www.meetup.com/Tech-SHEssions/) or even helping organizing non profit conferences.
 
-[Twitter](https://twitter.com/alba_roza)/[Github](https://github.com/AlbaRoza)
+[Twitter](https://twitter.com/alba_roza)/[Github](https://github.com/AlbaRoza) // @codingStandardsIgnoreLine

@@ -10,4 +10,5 @@ Deborah is a seasoned operations- and project manager. She also has experience a
 
 In her free time she is focused on expanding her skill-set by taking courses for system administration. She also continues to practice her OSINT investigation techniques after participating in the [Bellingcat](https://www.bellingcat.com/) workshop in 2019. As an activist, she’s vocal about defending human rights, online security and privacy in this age of surveillance capitalism. In terms of creative sustenance, she makes ceramics -with a focus on hand-building-, and is an avid, eclectic music collector.
 
-[GitHub](https://github.com/demkodo) - [Deborah's website](https://villastraylight.nl/) - [Twitter](https://twitter.com/demkodo)
+* [GitHub](https://github.com/demkodo)
+* [Deborah's website](https://villastraylight.nl/)

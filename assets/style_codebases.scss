@@ -337,8 +337,12 @@ h4.subtitle {
     margin: 0;
     padding-inline-start: 0;
   }
+
+  // Style changes to Lightbox elements
   .lb-thumb {
     width: 240px;
-
+  }
+  .lb-btn-text {
+    display: none;
   }
 }

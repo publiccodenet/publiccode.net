@@ -36,7 +36,7 @@ We're small, open, flexible and non-hierarchical. We act with integrity and comp
 
 We hire the best people we can, trust their expertise, and give them near infinite autonomy. We also support each other, and do lots of pair working.
 
-Because nobody has ever done this before for government and we've just started, everything we're doing is greenfield - everyone here comes to work every day knowing that what they'll do that day will meaningfully shape the Foundation's future.
+Because nobody has ever done this before for government and we've just started, everything we're doing is greenfield - everyone here comes to work every day knowing that what they'll do that day will meaningfully shape the Foundation for Public Code's future.
 
 We're ambitious but humble - we sincerely want this to succeed, but there's no guarantee. Because we believe that failure is the best teacher, we encourage curiosity, experimentation and learning.
 

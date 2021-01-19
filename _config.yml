@@ -20,7 +20,7 @@ plugins:
 defaults:
   -
     scope:
-      path: "who-we-are/team"
+      path: "team"
     values:
       layout: "bio"
       toc: false

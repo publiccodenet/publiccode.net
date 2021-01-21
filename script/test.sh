@@ -11,3 +11,4 @@ bundle exec htmlproofer \
     --url-ignore "/github.com/,/twitter.com/" \
     --url-ignore "/#/" \
     ./_site
+    

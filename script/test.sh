@@ -8,5 +8,7 @@ bundle exec jekyll build
 
 bundle exec htmlproofer \
     --url-ignore "/github.com/(.*)/edit/" \
+    --url-ignore "/github.com/,/twitter.com/" \
     --url-ignore "/#/" \
     ./_site
+    

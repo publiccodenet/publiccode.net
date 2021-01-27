@@ -2,6 +2,9 @@
 type: Bio
 role: Codebase steward
 image: jan-ainali.jpg
+redirect_from:
+    - team/jan-ainali.md
+    - team/jan-ainali.jpg
 ---
 
 # Jan Ainali
@@ -18,4 +21,4 @@ Ask Jan about:
 * Working in the open
 * Free licenses
 
-[Github](https://github.com/ainali)/[Twitter](https://twitter.com/jan_ainali)
+* [Github](https://github.com/ainali)

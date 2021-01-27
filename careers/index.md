@@ -1,6 +1,6 @@
 # Careers
 
-Join our mission to enable public-purpose software and policy that is open and collaborative.
+Join us in enabling public-purpose software and policy that is open and collaborative.
 
 ## Open positions
 
@@ -26,7 +26,7 @@ The Foundation for Public Code was set up to plug this infrastructure gap so tha
 
 We do this through active codebase stewardship and publishing [the Standard for Public Code](https://standard.publiccode.net/).
 
-![We're nerdy - we think the details matter.](../photos/mirjam-hierarchy.jpg)
+![We're nerdy - we think the details matter.](../../photos/mirjam-hierarchy.jpg)
 
 ## How we work
 
@@ -40,7 +40,7 @@ Because nobody has ever done this before for government and we've just started, 
 
 We're ambitious but humble - we sincerely want this to succeed, but there's no guarantee. Because we believe that failure is the best teacher, we encourage curiosity, experimentation and learning.
 
-![We celebrate things we've worked hard on.](../photos/ben-standard.jpg)
+![We celebrate things we've worked hard on.](../../photos/ben-standard.jpg)
 
 ## Our tech stack
 

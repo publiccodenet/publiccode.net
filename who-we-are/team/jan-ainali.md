@@ -2,6 +2,9 @@
 type: Bio
 role: Codebase steward
 image: jan-ainali.jpg
+redirect_from:
+    - team/jan-ainali.md
+    - team/jan-ainali.jpg
 ---
 
 # Jan Ainali

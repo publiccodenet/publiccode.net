@@ -2,6 +2,9 @@
 type: Bio
 role: Membership developer
 image: laura-scheske.jpg
+redirect_from:
+    - team/laura-scheske.md
+    - team/laura-scheske.jpg
 ---
 
 # Laura Scheske

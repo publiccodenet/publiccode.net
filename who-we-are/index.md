@@ -2,7 +2,7 @@
 toc: false
 layout: default
 redirect_from:
-    - team/index.md
+    - team/index
 ---
 
 # Meet us

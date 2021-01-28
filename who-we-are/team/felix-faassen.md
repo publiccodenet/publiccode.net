@@ -3,8 +3,7 @@ type: Bio
 role: Codebase steward
 image: felix-faassen.jpg
 redirect_from:
-    -  team/felix-faassen.md
-    - team/felix-faassen.jpg
+    -  team/felix-faassen
 ---
 
 # Felix Faassen

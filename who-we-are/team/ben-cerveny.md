@@ -3,8 +3,7 @@ type: Bio
 role: President
 image: ben-cerveny.jpg
 redirect_from:
-    - team/ben-cerveny.md
-    - team/ben-cerveny.jpg
+    - team/ben-cerveny
 
 ---
 

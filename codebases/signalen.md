@@ -1,6 +1,6 @@
 # Signalen
 
-> Stage 1: assessment
+> Stage 2: incubation
 
 ![Signalen logo](../photos/Signalen-logo-no-background.png)
 

@@ -47,7 +47,6 @@ $breakpoints: (
 }
 
 
-
 p, h1, h2, h3, h4, h5, ul, pre, blockquote, .highlight {
   max-width: none;
 }
@@ -285,11 +284,7 @@ h4.subtitle {
   }
 }
 .cb-detail-info {
-<<<<<<< HEAD
-=======
-  //border-top: 1px solid var(--fpc-grey);
-  //padding: 0 2em;
->>>>>>> develop
+
   h3 {
     font-size: 1.4em;
     margin-block-start: 0em;

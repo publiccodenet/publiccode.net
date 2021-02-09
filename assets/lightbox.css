@@ -1,0 +1,97 @@
+.lightbox {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.8);
+  opacity: 0;
+  width: 0;
+  height: 0;
+  left: 0;
+  top: 0;
+  position: fixed;
+  z-index: 999;
+}
+
+.lightbox img {
+  opacity: 0;
+  max-width: 90%;
+  max-height: 80%;
+  margin-top: 2%;
+}
+
+.lightbox:target {
+  outline: none;
+  opacity: 1 !important;
+  width: 100%;
+  height: 100%;
+}
+
+.lightbox:target img {
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+  opacity: 1;
+  webkit-transition: opacity 0.6s;
+  transition: opacity 0.6s;
+}
+
+a.lb-btn {
+  color: white;
+  text-decoration: none;
+  background-color: #222;
+  border-radius: 3px;
+
+  vertical-align: middle;
+  top: 45%;
+  padding: 15px 15px;
+  position: absolute;
+  z-index: 99;
+  cursor: pointer;
+}
+
+a.lb-btn:hover {
+  background-color: #111;
+}
+
+a.lb-btn-prev {
+  left: 5%;
+}
+
+a.lb-btn-next {
+  right: 5%;
+}
+
+a.lb-btn-prev, a.lb-btn-next {
+  transition: all .15s ease-out;
+  cursor: pointer;
+}
+a.lb-btn-prev::after, a.lb-btn-next::after {
+  content:'';
+  background-image: url("data:image/svg+xml;utf-8,\
+    <svg width='60px' height='30px' viewBox='0 0 60 30' xmlns='http://www.w3.org/2000/svg'>\
+      <g stroke-width='1.5' stroke-miterlimit='10' stroke='white' fill='none'>\
+        <line x1='0' y1='15' x2='59.1' y2='15' /><polyline points='44.7,0.3 59.3,15 44.7,29.6 '/>\
+      </g>\
+    </svg>");
+  width: 60px;
+  height: 30px;
+  position: relative;
+  display: block;
+  transition: all .15s ease-out;
+}
+a.lb-btn-prev::after {
+  transform: scale(-1);
+}
+
+a.lb-btn-close {
+  position: absolute;
+  right: 2%;
+  top: 2%;
+}
+a.lb-btn-close::after {
+  content:'';
+  background-image: url("data:image/svg+xml;utf-8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='45px' height='45px' viewBox='0 0 45 45' style='overflow:visible;enable-background:new 0 0 45 45;' xml:space='preserve'><g stroke-width='1.5' stroke-miterlimit='10' stroke='white' fill='none'><line x1='0' y1='0' x2='45' y2='45'/><line x1='45' y1='0' x2='0' y2='45'/></g></svg>");
+  width: 45px;
+  height: 45px;
+  position: relative;
+  display: block;
+  transition: all .15s ease-out;
+}

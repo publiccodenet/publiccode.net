@@ -31,22 +31,22 @@ We will help you approach your digital systems in a way that promotes effective 
 
 Further benefits of membership include being able to:
 
-* steer the Foundation’s pipeline towards projects you’d like to reuse
+* steer our pipeline towards projects you’d like to reuse
 * gain recognition as a leader of systemic digital transformation
 * demonstrate return on IT investments
 * increase the quality and security of your code through codebase stewardship
-* access Foundation leaders and advisors for open source strategy discussions
-* learn from and share experiences with other bold, innovative public organizations and leaders in the sector
+* access Foundation for Public Code leaders and advisors for open source strategy discussions
+* learn from and share experience with other bold, innovative public organizations and leaders in the sector
 
 ## Membership requirements
 
 To become a member you should be a publicly owned organization (such as a city, regional government, public library or an association of public bodies), and have some of these:
 
 * enthusiasm for public code at the most senior levels within your organisation
-* a willingness to help improve the Foundation onboarding and code auditing processes
+* a willingness to help improve the Foundation for Public Code onboarding and code auditing processes
 * an open source software solution that you think other public organisations will be interested in reusing
 * the ability to make a significant financial commitment relative to your type and size of organization (especially if you don’t currently have a codebase available, but are invested in creating a future for public code)
-* a development team and policy experts able to work with the Foundation to refactor and document your software and policy so that they meet the [Standard for Public Code](https://standard.publiccode.net)
+* a development team and policy experts able to work with the Foundation for Public Code to refactor and document your software and policy so that they meet the [Standard for Public Code](https://standard.publiccode.net)
 
 ## How to join the Foundation
 

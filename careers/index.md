@@ -11,11 +11,13 @@ Join us in enabling public-purpose software and policy that is open and collabor
 {% endfor %}
 </ul>
 
-We’re not actively hiring for roles not listed on this page, however if you think you fit in to our organization in a way we don’t understand yet, please get in touch!
+We’re not actively hiring for roles not listed on this page. However, if you think you fit in to our organization in a way we don’t understand yet, please get in touch!
 
 ## About us
 
-We aim to build international public sector communities working together to share open source software and policy in a radically collaborative and open way. Public organizations are building more open software than ever before, but collaborating at the scale needed to co-develop and maintain a codebase is still hard – it's not the core responsibility of any single public organization.
+We aim to build international public sector communities that work together to share open source software and policy - in a radically collaborative and open way.
+
+Public organizations are building more open software than ever before, but collaborating at the scale needed to co-develop and maintain a codebase is still hard – it's not the core responsibility of any single public organization.
 
 The Foundation for Public Code was set up to plug this infrastructure gap so that people already working for the public good can more easily:
 
@@ -36,7 +38,7 @@ We're small, open, flexible and non-hierarchical. We act with integrity and comp
 
 We hire the best people we can, trust their expertise, and give them near infinite autonomy. We also support each other, and do lots of pair working.
 
-Because nobody has ever done this before for government and we've just started, everything we're doing is greenfield - everyone here comes to work every day knowing that what they'll do that day will meaningfully shape the Foundation's future.
+Because nobody has ever done this before for government and we've just started, everything we're doing is greenfield - everyone here comes to work every day knowing that what they'll do that day will meaningfully shape the Foundation for Public Code's future.
 
 We're ambitious but humble - we sincerely want this to succeed, but there's no guarantee. Because we believe that failure is the best teacher, we encourage curiosity, experimentation and learning.
 
@@ -44,6 +46,6 @@ We're ambitious but humble - we sincerely want this to succeed, but there's no g
 
 ## Our tech stack
 
-We don't have a tech stack ourselves, because we only work with codebases built by public organizations. This means that we work with quite diverse tech stacks; in practice, all of the devs we've hired are multilingual and used to quickly sussing things out as they go.
+We don't have a tech stack ourselves, because we only work with codebases built by public organizations. This means that we work with quite diverse tech stacks; in practice, all of the devs we've hired are language agnostic and used to quickly sussing things out as they go.
 
 [We try to work entirely in the open](https://github.com/publiccodenet/) on Github (>90% of our work is represented on our public Github.)

@@ -2,6 +2,8 @@
 type: Bio
 role: Codebase steward for communites
 image: alba-roza.jpg
+redirect_from:
+    - team/alba-roza
 ---
 
 # Alba Roza

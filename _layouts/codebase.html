@@ -1,0 +1,17 @@
+---
+layout: site
+---
+
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets/style_codebases.css">
+<link rel="stylesheet" href="../assets/lightbox.css">
+
+<main>
+
+{% if site.show_breadcrumbs %}
+  {% include breadcrumbs.liquid %}
+{% endif %}
+
+{{ content }}
+
+</main>

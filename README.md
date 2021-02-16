@@ -2,6 +2,8 @@
 
 This website is the homepage for the Foundation for Public Code. It is where we introduce and explain ourselves to the outside world, and invite readers into all the content that the Foundation for Public Code has to offer.
 
+[Read the product requirements document](product-requirements-document.md) for our current audiences, goals and iteration plans for this website.
+
 ## Installing
 
 This site is made for GitHub pages and thus runs their Jekyll install.

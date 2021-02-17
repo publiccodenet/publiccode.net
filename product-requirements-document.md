@@ -106,4 +106,22 @@ As a member of the general public
 I want to understand what the Foundation for Public Code does
 So that I can feel more optimistic about technology and the future
 
+## Goals
+
+In reference to the [Foundation for Public Code’s mission and goals](https://about.publiccode.net/organization/mission.html).
+
+1. Increase membership inquiries from potential member organizations.
+2. Support reuse of codebases under stewardship by new public organizations.
+3. Increase visibility of and downloads of the Standard, and include social proof of its increasingly widespread use.
+4. Enable our community to make the case for public code to their colleagues, friends and family.
+5. Establish our position as thought leaders with open source activists, government technology and digital transformation experts, other domain space influencers, political decision makers and philanthropists.
+6. Grow traffic to key sections: Membership, Codebases, Codebase Stewardship, Background (or other equivalent fundamental explanations), Events and Communications calendar, Join us, and Standard for Public Code (and related marketing pages)
+7. Increase site utilization: lower bounce rate, while increasing page depth and visit duration — overall, and specifically for intra-site page visits.
+8. Become a beacon for open and transparent process.
+
+Goals made possible by a more intrusive analytics package than [Plausible]:
+
+* Increased international visitor spread, measured via decreased bounce rate from international audiences
+* User journey tracking - how many visitors follow links featured on, for example, the pubilccode.net homepage
+* Refining our content with the input (in numbers that translates into behaviours) of our visitors
 

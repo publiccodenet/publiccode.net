@@ -40,7 +40,10 @@ Not prioritized for now
 
 ## User stories
 
-These user stories center on actions a specific user wants to take when they visit our website. They do not include the information or tools we need to make available in order for the user to achieve their goal.
+These are representational user stories based on discussions and feedback we’ve received.
+We believe these are the main goals of people who come to our website.
+
+If this doesn’t reflect your needs, please [raise an issue](https://github.com/publiccodenet/publiccode.net/issues) or [contact us](https://about.publiccode.net/organization/contact-details.html).
 
 ### Higher priority users
 

@@ -170,3 +170,82 @@ There are 2 types of content pages on publiccode.net: generic pages, which use t
 * Individual codebase overview (like <publiccode.net/codebases/signalen>)
 * Team index page (like <publiccode.net/team>)
 * Members and perhaps even a page about each member? [future]
+
+## Technical and functional requirements
+
+### Technology and architecture
+
+* Open and public: Aim for 100% open-source and public domain languages and tools. Temporarily fall back on closed tools only when there is consensus on the benefits.
+* Simpler and fewer: Use common and established tech whenever possible. For example, prefer CSS over SCSS, and avoid Javascript unless necessary.
+* Easy expansion: Beautiful design should not interfere with or overly complexify the process of adding and editing content. Templatization and continued automatic ingestion of markdown is essential.
+* Unified content, flexible display: Information display should be flexible, with few sources serving multiple endpoints. Continue to use Jekyll, Liquid and CSS media queries to enable one content set to serve multiple endpoints, including print/PDF.
+* Rich content: Add abilities for embedded video, social and GitHub hooks
+
+## Experience
+
+* Presentation modes: Information should be accessible via desktop and mobile web browser, social media, email, and pdf (digital or print)
+* Human accessible: [WCAG 2.1 Level A](https://www.w3.org/WAI/WCAG21/quickref/) (minimum). Accommodate the vision-impaired with screen-reader friendly, high contrast design. Avoid absolute text size units. Ensure proper keyboard-based navigability.
+* Linguistically accessible: Speak to an international audience by using standard, non-colloquial English. Speak to a non-technical audience by avoiding jargon, or defining it when necessary and helpful.
+* Technically accessible: Tools, languages and implementation style should prioritize procedures and code that is relatively easy to grasp and collaborate on.
+
+### Practices
+
+* Visible process: Bring tools and communication closer. Select for technologies which broadly facilitate viewing, insight, understanding, sharing and participation.
+* Dogfood: Contribute to open source tools, practices and culture by avoiding closed/commercial platforms (even if they are arguably more powerful).
+* Invite and reward feedback: Create and bond with collaborators by responding to their ideas, incorporating the good ones, and visibly crediting them.
+* Document well: As the new site is built out of the old, align on agreed-upon best practices, and document these patterns as part of the process. Enable future collaborators (and forgetful selves) to understand why decisions were made.
+
+## Design Approach
+
+### Basic process
+
+* Gather initial ideas and goals from team via workshops
+* Reference existing Github repos
+* Assemble product requirements
+* Create initial wireframes
+* Present to team, board and public 
+* Refine wires and socialize until quorum reached
+* Design and build site updates
+* Review code, communication and design via standard Github process
+* Test hypotheses
+* Document
+* Iterate
+
+### Concepts
+
+* Modular: Design with flexibility in mind, facilitating closer parity between organizational needs and website structure
+* Transparent and Traversable: Keep communication connected to the work by using tools that blend them (like GitHub) and heavily using links to enable fluid traversal of the ecosystem
+* Central and Extensible: While the site will be an increasingly capable hub of information, activity, and identity, it will perform best not as a self-contained, all-inclusive structure, but as a gateway to a rich and varied ecosystem of ideas, resources, and communities. It should be designed to share roles and responsibilities with other tools and efforts (like outreach, meetings, social media)
+
+### Voice
+
+* Optimistic, but cognizant of the challenges
+* Earnest and open
+* Not: Superior, ego-centric
+
+### Design language considerations
+
+* Informationally and functionally-focused. Flashy marketing moments have their place, but should be used minimally, and generally take a backseat to the real work of organization, collaboration and information.
+* Machine and system-savvy, with a clear focus on the people impacted by the work
+* Not: Computery as superficial visual motif
+* Text-focused (but not ‘brutalist’ or abstracted)
+* Future-looking (but not futuristic) and a bit timeless
+* Synthesis of digital (process), architectural (physical civic infrastructure), and organic (humanity), to reflect the work’s central medium in its physical and human contexts
+* Pops of color and purposeful photography of people and places can help bring it to life
+* Imprintable. A neutral/monochromatic design foundation enables others to see themselves, their orgs and communities in our work. Heavy branding can interfere with this.
+* Not: Generic, white-labelable
+* Intimacy at scale. Bridge the gap between human scale and civic/global implications.
+* Key elements can feature simple interactivity and animation, to bring the site subtly to life
+* A simple symbol/color design language could be developed to assist in wayfinding, which also acts as a sort of functional branding
+
+### Design references
+
+* Floris’ excellent illustrations
+* Illo.tv (Super approachable graphics, simple forms, given life through animation)
+* Excellent API docs: Twilio, Stripe
+
+## References and sources
+
+* Publiccode.net user journeys workshop outputs (Aug 2020)
+* Site Map + Wireframes in Figma
+* Foundation for Public Code communications plan

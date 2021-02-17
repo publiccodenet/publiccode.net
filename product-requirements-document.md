@@ -152,3 +152,21 @@ G. To increase site utilization, we will tailor site content and architecture to
 
 H. To become a beacon for open and transparent processes, we will build upon the existing site’s idea of a seamless fusion between communication and tools, to continue informing our own process and culture, and publicly demonstrate the value of this way of working.
 
+## Content types on publiccode.net
+
+There are 2 types of content pages on publiccode.net: generic pages, which use the Foundation for [Public Code’s Jekyll theme] and may contain Liquid functionality, and custom pages, each characterized by their own layout, design and content. We have a bias toward the former, which are quick to create, low maintenance, and easy for less technically-experienced people to contribute to.
+
+### Generic pages
+
+* Individual staff biographies (like <publiccode.net/team/alba-roza>)
+* Section introduction page (index) (like <publiccode.net/careers>)
+* Long form text (like <publiccode.net/background> or <publiccode.net/careers/intern>)
+
+### Custom pages and page types
+
+* Homepage (<publiccode.net>)
+* Codebase stewardship explanation (<publiccode.net/codebase-stewardship>)
+*Codebases index page (like publiccode.net/codebases/)
+* Individual codebase overview (like <publiccode.net/codebases/signalen>)
+* Team index page (like <publiccode.net/team>)
+* Members and perhaps even a page about each member? [future]

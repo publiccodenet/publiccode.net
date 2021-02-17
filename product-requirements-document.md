@@ -33,7 +33,7 @@ Publiccode.net is our front door for the world. As such, it serves a variety of 
 * Fans and casual contributors
 * Potential staff
 
-Not prioritized for now
+### Not prioritized for now
 
 * Current staff
 * All other user groups listed in the [Value proposition hypotheses](https://about.publiccode.net/activities/value-and-impact/user-mapping/)
@@ -108,20 +108,47 @@ So that I can feel more optimistic about technology and the future
 
 ## Goals
 
-In reference to the [Foundation for Public Code’s mission and goals](https://about.publiccode.net/organization/mission.html).
+In reference to the [Foundation for Public Code’s mission and goals](https://about.publiccode.net/organization/mission.html).  This is an unordered list.
 
-1. Increase membership inquiries from potential member organizations.
-2. Support reuse of codebases under stewardship by new public organizations.
-3. Increase visibility of and downloads of the Standard, and include social proof of its increasingly widespread use.
-4. Enable our community to make the case for public code to their colleagues, friends and family.
-5. Establish our position as thought leaders with open source activists, government technology and digital transformation experts, other domain space influencers, political decision makers and philanthropists.
-6. Grow traffic to key sections: Membership, Codebases, Codebase Stewardship, Background (or other equivalent fundamental explanations), Events and Communications calendar, Join us, and Standard for Public Code (and related marketing pages)
-7. Increase site utilization: lower bounce rate, while increasing page depth and visit duration — overall, and specifically for intra-site page visits.
-8. Become a beacon for open and transparent process.
+A. Increase membership inquiries from potential member organizations.
+
+B. Support reuse of codebases under stewardship by new public organizations.
+
+C. Increase visibility of and downloads of the Standard, and include social proof of its increasingly widespread use.
+
+D. Enable our community to make the case for public code to their colleagues, friends and family.
+
+E. Establish our position as thought leaders with open source activists, government technology and digital transformation experts, other domain space influencers, political decision makers and philanthropists.
+
+F. Grow traffic to key sections: Membership, Codebases, Codebase Stewardship, Background (or other equivalent fundamental explanations), Events and Communications calendar, Join us, and Standard for Public Code (and related marketing pages)
+
+G. Increase site utilization: lower bounce rate, while increasing page depth and visit duration — overall, and specifically for intra-site page visits.
+
+H. Become a beacon for open and transparent process.
 
 Goals made possible by a more intrusive analytics package than [Plausible]:
 
 * Increased international visitor spread, measured via decreased bounce rate from international audiences
 * User journey tracking - how many visitors follow links featured on, for example, the pubilccode.net homepage
 * Refining our content with the input (in numbers that translates into behaviours) of our visitors
+
+## Actions
+
+These are written in the format “To achieve this goal, we’ll try this intervention”. These are linked to the goals, but are not in priority order.
+
+A. To increase membership inquiries, we will showcase engagement by other (potential) members to lend us credibility, show testimonials from member orgs/codebases, and share success stories about codebases under stewardship.
+
+B. To support reuse of codebases under stewardship by new public organizations, we will make it easy to find basic information about the codebases, their functionality, their community, their maturity level and their potential.
+
+C. To increase visibility of the Standard, we will show where and how it’s in use, highlighting successes, and invite community building around the Standard.
+
+D. To enable our community to make the case for public code, we will provide a layman’s explanation of public code and the opportunities, backed by targeted evidence to help non-technology experts understand the advantages and disadvantages (for example, business cases for financial decision makers)
+
+E. To demonstrate our position as thought leaders, we will showcase our broader open source community engagement and participation, by showing who we share stages with, which publications/platforms we have access to, our high value press mentions and by quoting references to us in official documents.
+
+F. To grow traffic from the homepage, we’ll feature engaging content with clear calls to action and straightforward user journeys.
+
+G. To increase site utilization, we will tailor site content and architecture to better accommodate our various audiences, and use lightweight web analytics to see in detail where we are losing people, and what areas may benefit from more obvious navigability.
+
+H. To become a beacon for open and transparent processes, we will build upon the existing site’s idea of a seamless fusion between communication and tools, to continue informing our own process and culture, and publicly demonstrate the value of this way of working.
 

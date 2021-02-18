@@ -154,7 +154,12 @@ H. To become a beacon for open and transparent processes, we will build upon the
 
 ## Content types on publiccode.net
 
-There are 2 types of content pages on publiccode.net: generic pages, which use the [Foundation for Public Code’s Jekyll theme](https://github.com/publiccodenet/jekyll-theme/) and may contain Liquid functionality, and custom pages, each characterized by their own layout, design and content. We have a bias toward the former, which are quick to create, low maintenance, and easy for less technically-experienced people to contribute to.
+There are 2 types of content pages on publiccode.net:
+
+* generic pages, which use the [Foundation for Public Code’s Jekyll theme](https://github.com/publiccodenet/jekyll-theme/) and may contain Liquid functionality
+* custom pages, each characterized by their own layout, design and content
+
+We have a bias toward the former, which are quick to create, low maintenance, and easy for less technically-experienced people to contribute to.
 
 ### Generic pages
 

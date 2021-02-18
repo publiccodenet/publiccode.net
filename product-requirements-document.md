@@ -126,7 +126,7 @@ G. Increase site utilization: lower bounce rate, while increasing page depth and
 
 H. Become a beacon for open and transparent process.
 
-Goals made possible by a more intrusive analytics package than [Plausible]:
+Goals made possible by a more intrusive analytics package than [Plausible](https://github.com/publiccodenet/about/pull/857):
 
 * Increased international visitor spread, measured via decreased bounce rate from international audiences
 * User journey tracking - how many visitors follow links featured on, for example, the pubilccode.net homepage
@@ -154,7 +154,7 @@ H. To become a beacon for open and transparent processes, we will build upon the
 
 ## Content types on publiccode.net
 
-There are 2 types of content pages on publiccode.net: generic pages, which use the Foundation for [Public Code’s Jekyll theme] and may contain Liquid functionality, and custom pages, each characterized by their own layout, design and content. We have a bias toward the former, which are quick to create, low maintenance, and easy for less technically-experienced people to contribute to.
+There are 2 types of content pages on publiccode.net: generic pages, which use the [Foundation for Public Code’s Jekyll theme](https://github.com/publiccodenet/jekyll-theme/) and may contain Liquid functionality, and custom pages, each characterized by their own layout, design and content. We have a bias toward the former, which are quick to create, low maintenance, and easy for less technically-experienced people to contribute to.
 
 ### Generic pages
 
@@ -191,7 +191,7 @@ There are 2 types of content pages on publiccode.net: generic pages, which use t
 ### Practices
 
 * Visible process: Bring tools and communication closer. Select for technologies which broadly facilitate viewing, insight, understanding, sharing and participation.
-* Dogfood: Contribute to open source tools, practices and culture by avoiding closed/commercial platforms (even if they are arguably more powerful).
+* [Dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food): Contribute to open source tools, practices and culture by avoiding closed/commercial platforms (even if they are arguably more powerful).
 * Invite and reward feedback: Create and bond with collaborators by responding to their ideas, incorporating the good ones, and visibly crediting them.
 * Document well: As the new site is built out of the old, align on agreed-upon best practices, and document these patterns as part of the process. Enable future collaborators (and forgetful selves) to understand why decisions were made.
 
@@ -240,12 +240,12 @@ There are 2 types of content pages on publiccode.net: generic pages, which use t
 
 ### Design references
 
-* Floris’ excellent illustrations
-* Illo.tv (Super approachable graphics, simple forms, given life through animation)
-* Excellent API docs: Twilio, Stripe
+* [Illustrations.publiccode.net](https://illustrations.publiccode.net/)
+* [Illo.tv](https://illo.tv) (Super approachable graphics, simple forms, given life through animation)
+* Excellent API documentation: [Twilio](https://www.twilio.com/docs/usage/api), [Stripe](https://stripe.com/docs/api)
 
 ## References and sources
 
-* Publiccode.net user journeys workshop outputs (Aug 2020)
-* Site Map + Wireframes in Figma
-* Foundation for Public Code communications plan
+* [Publiccode.net user journeys workshop outputs](https://docs.google.com/spreadsheets/d/1Zk6DMSpF1eV_F7PATY679zNlCOSY8kE8Q8O1C9yhXT4/edit#gid=2067871141) (not shared publicly) (Aug 2020)
+* [Site map and wireframes in Figma](https://www.figma.com/file/3KHjGMx7CvgX49VbZb0AFv/FPC-site?node-id=177%3A0)
+* [Foundation for Public Code communications plan](https://about.publiccode.net/activities/communication/communications-plan.html)

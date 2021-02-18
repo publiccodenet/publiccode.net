@@ -158,17 +158,17 @@ There are 2 types of content pages on publiccode.net: generic pages, which use t
 
 ### Generic pages
 
-* Individual staff biographies (like <publiccode.net/team/alba-roza>)
-* Section introduction page (index) (like <publiccode.net/careers>)
-* Long form text (like <publiccode.net/background> or <publiccode.net/careers/intern>)
+* Individual staff biographies (like [publiccode.net/who-we-are/team/alba-roza](/who-we-are/team/alba-roza.md))
+* Section introduction page (index) (like [publiccode.net/careers](/careers))
+* Long form text (like [publiccode.net/background](/background) or [publiccode.net/careers/intern](/careers/intern.md))
 
 ### Custom pages and page types
 
-* Homepage (<publiccode.net>)
-* Codebase stewardship explanation (<publiccode.net/codebase-stewardship>)
-*Codebases index page (like publiccode.net/codebases/)
-* Individual codebase overview (like <publiccode.net/codebases/signalen>)
-* Team index page (like <publiccode.net/team>)
+* Homepage ([publiccode.net(/index.html))
+* Codebase stewardship explanation ([publiccode.net/codebase-stewardship](/codebase-stewardship))
+* Codebases index page (like [publiccode.net/codebases/](/codebases))
+* Individual codebase overview (like [publiccode.net/codebases/signalen](/codebases/signalen.html))
+* Team index page (like [publiccode.net/who-we-are](/who-we-are))
 * Members and perhaps even a page about each member? [future]
 
 ## Technical and functional requirements

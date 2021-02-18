@@ -20,7 +20,7 @@ Publiccode.net is our front door for the world. As such, it serves a variety of 
 * People at a public organization interested in membership
 * People at public organizations who want to work with us (e.g. have a codebase or want to develop one in the open)
 * People who want to support us philanthropically
-* Journalists would like to tell the world about us
+* Journalists who would like to tell the world about us
 
 ### Mid-priority
 
@@ -181,7 +181,7 @@ There are 2 types of content pages on publiccode.net: generic pages, which use t
 * Unified content, flexible display: Information display should be flexible, with few sources serving multiple endpoints. Continue to use Jekyll, Liquid and CSS media queries to enable one content set to serve multiple endpoints, including print/PDF.
 * Rich content: Add abilities for embedded video, social and GitHub hooks
 
-## Experience
+### Experience
 
 * Presentation modes: Information should be accessible via desktop and mobile web browser, social media, email, and pdf (digital or print)
 * Human accessible: [WCAG 2.1 Level A](https://www.w3.org/WAI/WCAG21/quickref/) (minimum). Accommodate the vision-impaired with screen-reader friendly, high contrast design. Avoid absolute text size units. Ensure proper keyboard-based navigability.

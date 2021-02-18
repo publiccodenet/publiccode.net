@@ -47,63 +47,63 @@ If this doesn’t reflect your needs, please [raise an issue](https://github.com
 
 ### Higher priority users
 
-As an employee of a public organization interested in membership
-I want to apply on behalf of my organization
+As an employee of a public organization interested in membership / 
+I want to apply on behalf of my organization / 
 So that we can be members
 
-As an employee of a public organization curious about membership
-I want to explain the benefits of public code and membership to my colleagues
-So that I can persuade them that our organization should join
+As an employee of a public organization curious about membership / I want to explain the benefits of public code and membership to my colleagues / So that I can persuade them that our organization should join
 
-As an employee of or vendor to a public organization
-I want to replicate a vetted public codebase
+As an employee of or vendor to a public organization / 
+I want to replicate a vetted public codebase / 
 So that the organization can get a better outcome
 
-As someone who works on a public codebase
-I want to find resources and community to support my codebase
+As someone who works on a public codebase / 
+I want to find resources and community to support my codebase / 
 So that my codebases can grow
 
-As someone with the resources to change the world
-I want to change government technology by supporting public code
+As someone with the resources to change the world / 
+I want to change government technology by supporting public code / 
 So that we make progress as a society
 
-As someone with the resources to change the world
-I want to be able to understand the impact of my donation
+As someone with the resources to change the world / 
+I want to be able to understand the impact of my donation / 
 So that I know what’s changed as a result
 
-As a journalist
-I want have great source material about public code
+As a journalist / 
+I want have great source material about public code / 
 So that I can produce an engaging and impactful story
 
 ### Mid-priority
 
-As an employee of a public organization
-I want to understand what the Foundation for Public Code does
+As an employee of a public organization / 
+I want to understand what the Foundation for Public Code does / 
 So that I can decide if it’s relevant to my organization
 
-As an employee of a related non-governmental organization (like a think tank or academic research center)
-I want to [see]
+As an employee of a related non-governmental organization / 
+I want to see high quality, meaningful work / 
+So that I can rely on the Foundation for Public Code in my own work / 
+
 
 ### Lower priority
 
-As a fan of open source or public code
-I want to know what the Foundation is up to
+As a fan of open source or public code / 
+I want to know what the Foundation is up to / 
 So I can get involved or spread the good news to other people
 
-As a fan of open source or public code
-I want to understand how I can contribute to the Foundation
+As a fan of open source or public code / 
+I want to understand how I can contribute to the Foundation / 
 So that the Foundation’s mission succeeds
 
-As a brilliant person who needs to work
-I want to understand what the Foundation does
+As a brilliant person who needs to work / 
+I want to understand what the Foundation does / 
 So that I can decide if this is a good fit for my career ambitions
 
-As a brilliant person who needs to work
-I want to apply for a job with the Foundation
+As a brilliant person who needs to work / 
+I want to apply for a job with the Foundation / 
 So that I can do important work with awesome people
 
-As a member of the general public
-I want to understand what the Foundation for Public Code does
+As a member of the general public / 
+I want to understand what the Foundation for Public Code does / 
 So that I can feel more optimistic about technology and the future
 
 ## Goals

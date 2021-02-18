@@ -164,7 +164,7 @@ There are 2 types of content pages on publiccode.net: generic pages, which use t
 
 ### Custom pages and page types
 
-* Homepage ([publiccode.net(/index.html))
+* Homepage ([publiccode.net](/index.html))
 * Codebase stewardship explanation ([publiccode.net/codebase-stewardship](/codebase-stewardship))
 * Codebases index page (like [publiccode.net/codebases/](/codebases))
 * Individual codebase overview (like [publiccode.net/codebases/signalen](/codebases/signalen.html))

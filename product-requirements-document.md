@@ -129,7 +129,7 @@ H. Become a beacon for open and transparent process.
 Goals made possible by a more intrusive analytics package than [Plausible](https://github.com/publiccodenet/about/pull/857):
 
 * Increased international visitor spread, measured via decreased bounce rate from international audiences
-* User journey tracking - how many visitors follow links featured on, for example, the pubilccode.net homepage
+* User journey tracking - how many visitors follow links featured on, for example, the publiccode.net homepage
 * Refining our content with the input (in numbers that translates into behaviours) of our visitors
 
 ## Actions

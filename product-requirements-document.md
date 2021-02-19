@@ -83,7 +83,6 @@ As an employee of a related non-governmental organization /
 I want to see high quality, meaningful work / 
 So that I can rely on the Foundation for Public Code in my own work / 
 
-
 ### Lower priority
 
 As a fan of open source or public code / 

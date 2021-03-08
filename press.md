@@ -1,11 +1,12 @@
 # Press and media
 
-These are selected press articles about us.If you're a journalist who wants to write about us, we're happy to help. Email us at <press@publiccode.net>. 
+Here's a selection of press about the Foundation for Public Code.
+
+We're always happy to work with journalists  - just email us at <press@publiccode.net>.
 
 You may also be interested in:
 
-- [a list of policy documents that mention us](https://about.publiccode.net/activities/value-and-impact/policy-documents.html)
-- [our conference talks and articles we've written]https://projects.publiccode.net/talks-and-articles.html()
+- [a list of policy documents that mention the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/policy-documents.html)
 - [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)
 
 ## 2020
@@ -15,7 +16,7 @@ You may also be interested in:
 
 > "It’s also important proof of the ability of globally diverse, digitally-connected civic technology communities to reliably compete with for-profit government technology vendors. This trend is gaining steam, with the Foundation for Public Code linking a network of municipal peer partners and the Beeck Center’s just-launched State Software Collaborative looking to improve US states’ procurement processes, in-house tech development, and inter-state sharing.
 - [Next-Generation Engagement Platforms, and How They Are Useful Right Now (Part 1)](https://civichall.org/civicist/next-generation-engagement-platforms-and-how-are-they-useful-right-now-part-1/), by Matt Stempeck on CivicHall.org (May 2020) 
-- [The sixth version of Standard for Public Code has been released on GitHub and the development of version 0.2.1 is open for contributions](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code), by Charlotte Heikendorf on the [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR) (May 2020)
+- [The sixth version of Standard for Public Code has been released on GitHub and the development of version 0.2.1 is open for contributions](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-release-standard-public-code), by Charlotte Heikendorf on the [Open Source Observatory and Repository](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR) (May 2020)
 
 - [Public Interest Podcast](https://public-interest-podcast.podigee.io/2-episode-2) interview with Olaf-Gerd Gemein about applying the Standard for Public Code in Germany (in German) (June 2020)
 

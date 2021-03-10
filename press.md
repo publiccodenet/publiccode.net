@@ -11,7 +11,9 @@ You may also be interested in:
 
 ## 2020
 
-> Quote: "Not only does going open-source offer cities access to fresh ideas, he says, but it helps policymakers better understand the software itself. After all, says Cerveny, “software will almost always be the way that policy is implemented in the future.”")
+* [Help: open source software wordt verplicht, wat nu!](https://opensource.pleio.nl/news/view/7155b323-98f4-4ca0-9777-7a53ffbf2d16/help-open-source-software-wordt-verplicht-wat-nu), summary of a panel discussion with Boris van Hoytema, Ivonne Janssen-Dings and Koos Steenbergen at the Conferentie Nederland Digitaal in February 2021.
+
+> "Not only does going open-source offer cities access to fresh ideas, he says, but it helps policymakers better understand the software itself. After all, says Cerveny, “software will almost always be the way that policy is implemented in the future.”")
 - [5 big ideas for fixing global cities’ most daunting challenges](https://fortune.com/2020/02/17/cities-challenges-solutions-housing-buses-climate-loneliness/) by Lydia Belanger and Emma Hinchliffe in Fortune.com (February 2020) 
 
 > "It’s also important proof of the ability of globally diverse, digitally-connected civic technology communities to reliably compete with for-profit government technology vendors. This trend is gaining steam, with the Foundation for Public Code linking a network of municipal peer partners and the Beeck Center’s just-launched State Software Collaborative looking to improve US states’ procurement processes, in-house tech development, and inter-state sharing.
@@ -21,7 +23,7 @@ You may also be interested in:
 - [Public Interest Podcast](https://public-interest-podcast.podigee.io/2-episode-2) interview with Olaf-Gerd Gemein about applying the Standard for Public Code in Germany (in German) (June 2020)
 
 > "Foundation for Public Code won de Aanmoedigingsprijs 2020, de jury ziet veel potentie in het initiatief en ziet uit naar een structurele bijdrage aan een gezonde open source-cultuur binnen de publieke sector"
-- [Sylk Suite wint Innovatie-award 2020](https://awards.isoc.nl/innovatie/2020/) (in Dutch) - press release announcing that we've won the 2020 Internet Society Netherlands encouragment award (June 2020); see also [our blogpost](https://blog.publiccode.net/news/2020/06/17/isoc-encouragement-award-consider-us-encouraged.html). 
+- [Sylk Suite wint Innovatie-award 2020](https://awards.isoc.nl/innovatie/2020/) (in Dutch) - press release announcing that we've won the 2020 Internet Society Netherlands encouragment award (June 2020); see also [our blogpost](https://blog.publiccode.net/news/2020/06/17/isoc-encouragement-award-consider-us-encouraged.html).
 
 > "Transparency should be an essential requirement in software developed by governments. Initiatives like Public Money, Public Code and the Foundation for Public Code are doing an amazing job of helping public administrators understand why their code (our code as taxpayers) should be open source."
 - [Open source development works to improve contact tracing in Europe](https://opensource.com/article/20/7/open-source-contact-tracing) by  J. Manrique Lopez de la Fuente on Opensource.com (July 2020) 

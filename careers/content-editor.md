@@ -19,7 +19,7 @@ In the coming year, we want to significantly increase awareness of the concept o
 As a Communications editor, you work together with the community to highlight our impact and enable others to participate. This means you will:
 
 * plan and create informational content, blogposts, social media posts, creative campaigns, presentations, and possibly print and film
-* help colleagues and community members tell stories and learnings from their work (including interviewing, editorial direction, narrative construction, encouragement)
+* help colleagues and community members share accomplishments and learnings from their work (including interviewing, editorial direction, narrative construction, encouragement)
 * work with people across the organization and our broader member and codebase community, as well as external designers, animators and other creatives
 * strategically use a wide range of platforms and channels to share our work (potentially including podcasts, videos, and social media)
 * find opportunities in others' events, podcasts or other activities for our colleagues to contribute
@@ -38,7 +38,6 @@ You should:
 * want to work for the public good
 * have a collaborative working attitude and take pride in making things together
 * be able to work independently
-* be a strong communicator in English
 * have international experience
 
 ## What we expect from the Communications editor
@@ -49,10 +48,11 @@ We expect our new Communications editor to:
 * have proven ability to write about complicated things in a simple way for a wide audience
 * be able to identify good stories that will matter to our audience
 * contribute to our awareness raising strategy as the organization moves from a start up to scaling phase
+* have native level English fluency
 
 ## More information about this position
 
-This is a full time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Due to the ongoing Covid-19 restrictions, we all work remotely. Assistance in relocation is possible.
+This is a full time role (40 hours/week) in our main offices in Amsterdam, the Netherlands. Due to the ongoing COVID-19 restrictions, we all work remotely. Assistance in relocation is possible.
 
 This is a one year contract, with an option to extend. Compensation is competitive as well as in line with the public mission of the organization.
 

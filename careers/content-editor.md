@@ -1,6 +1,6 @@
 ---
 type: Position
-excerpt:  (Full time, remote with future commuting to Amsterdam)
+excerpt:  Tell stories about public code's impact that everyone can understand
 ---
 
 # Communications editor/storyteller

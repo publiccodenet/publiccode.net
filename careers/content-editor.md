@@ -26,6 +26,7 @@ As a Communications editor, you work together with the community to highlight ou
 * support colleagues working with press and media
 * apply a user-centered content design approach to content marketing
 * proofread colleagues' pull requests on Github for style, usefulness and formatting (hyperlinks and Markdown)
+* analytics to monitor successful content
 
 If you enjoy combining your storytelling and analytical skills to make complex content accessible and compelling, then we'd love to hear from you.
 
@@ -34,7 +35,7 @@ If you enjoy combining your storytelling and analytical skills to make complex c
 You should:
 
 * share our core values: openness, quality, trust, community, helpfulness
-* understand the value of and be experienced with open source products and communities
+* understand the value of and be experienced with open source products, git and communities
 * want to work for the public good
 * have a collaborative working attitude and take pride in making things together
 * be able to work independently
@@ -49,6 +50,9 @@ We expect our new Communications editor to:
 * be able to identify good stories that will matter to our audience
 * contribute to our awareness raising strategy as the organization moves from a start up to scaling phase
 * have native level English fluency
+* have a solid experience managing social media and tracking platforms
+* have a professional experience in the public sector
+* edit videos and banners for social media
 
 ## More information about this position
 

@@ -50,9 +50,6 @@ We expect our new Communications editor to:
 * be able to identify good stories that will matter to our audience
 * contribute to our awareness raising strategy as the organization moves from a start up to scaling phase
 * have native level English fluency
-* have a solid experience managing social media and tracking platforms
-* have a professional experience in the public sector
-* edit videos and banners for social media
 
 ## More information about this position
 

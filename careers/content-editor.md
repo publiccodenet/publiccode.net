@@ -12,7 +12,7 @@ Part of this effort is to invite people to join us. This means:
 * telling the story of public code so that it's exciting and compelling for both our contributors, and the broader government and technology communities
 * making sure our information and documentation is clear, approachable and accessible to anyone who wants to use our materials, work with us, or contribute to make them better
 
-In the coming year, we want to significantly increase awareness of the concept of public code and the results we're already seeing in the codebases we work with.
+In the coming year, we want to significantly increase awareness of what public code is and the results we're already seeing in the codebases we work with.
 
 ## What the Communications editor does
 

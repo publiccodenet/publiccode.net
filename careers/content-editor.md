@@ -1,6 +1,6 @@
 ---
 type: Position
-excerpt:  Tell stories about public code's impact that everyone can understand
+excerpt: Tell stories about public code's impact that everyone can understand
 ---
 
 # Communications editor/storyteller

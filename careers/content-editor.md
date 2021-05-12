@@ -18,9 +18,9 @@ In the coming year, we want to significantly increase awareness of what public c
 
 As a Communications editor, you work together with the community to highlight our impact and enable others to participate. This means you will:
 
-* plan and create informational content, blogposts, social media posts, creative campaigns, presentations, and possibly print and film
+* plan and create creative campaigns, blogposts, print, film, social media posts, informational content and presentations
 * help colleagues and community members share accomplishments and learnings from their work (including interviewing, editorial direction, narrative construction, and encouragement)
-* work with people across the organization and our broader member and codebase community, as well as external designers, animators and other creatives
+* work with people across the organization and our broader member and codebase community, as well as manage external designers, animators and other creatives
 * strategically use a wide range of platforms and channels to share our work (potentially including podcasts, videos, and social media)
 * find opportunities in others' events, podcasts or other activities for our colleagues to contribute
 * support colleagues working with press and media

@@ -25,7 +25,7 @@ As a Communications editor, you work together with the community to highlight ou
 * find opportunities in others' events, podcasts or other activities for our colleagues to contribute
 * support colleagues working with press and media
 * apply a user-centered content design approach to content marketing
-* proofread colleagues' pull requests on Github for style, usefulness and formatting (hyperlinks and Markdown)
+* proofread international colleagues' pull requests on Github for accessible international English, plus style, usefulness and formatting (hyperlinks and Markdown)
 * use analytics to monitor successful content
 
 If you enjoy combining your storytelling and analytical skills to make complex content accessible and compelling, then we'd love to hear from you.

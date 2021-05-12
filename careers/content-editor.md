@@ -49,7 +49,7 @@ We expect our new Communications editor to:
 * have proven ability to write about complicated things in a simple way for a wide audience
 * be able to identify good stories that will matter to our audience
 * contribute to our awareness raising strategy as the organization moves from a start up to scaling phase
-* have native level English fluency
+* be a strong communicator in written and spoken English
 
 ## More information about this position
 

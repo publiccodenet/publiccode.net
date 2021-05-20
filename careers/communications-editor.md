@@ -2,7 +2,7 @@
 type: Position
 excerpt:  Tell stories about public code's impact that everyone can understand
 redirect_from:
-/content-editor
+    - /careers/content-editor
 ---
 
 # Communications editor/storyteller

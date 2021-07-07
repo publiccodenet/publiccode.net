@@ -22,6 +22,6 @@ We're always happy to work with journalists  - just email us at <press@publiccod
 
 You may also be interested in:
 
-- [a full of all mentions of the Foundation for Public Code by press and other media](https://about.publiccode.net/activities/value-and-impact/all-press.html)
+- [a full list sof all mentions of the Foundation for Public Code by press and other media](https://about.publiccode.net/activities/value-and-impact/all-press.html)
 - [a list of policy documents that mention the Foundation for Public Code](https://about.publiccode.net/activities/value-and-impact/policy-documents.html)
 - [our conference talks and articles we've written](https://projects.publiccode.net/talks-and-articles.html)

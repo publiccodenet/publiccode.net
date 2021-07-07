@@ -1,8 +1,8 @@
 # Press and media
 
-Here's a selection of press about the Foundation for Public Code.
+A selection of recent press about the Foundation for Public Code.
 
-We're always happy to work with journalists  - just email us at <press@publiccode.net>.
+We believe a free press is as vital for an open and accountable society, as is public ownership of civic infrastructure. Journalists, email us at <press@publiccode.net>.
 
 ## Selected press
 

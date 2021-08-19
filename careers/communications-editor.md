@@ -61,7 +61,8 @@ This is a one year contract, with an option to extend. Compensation is competiti
 
 ## More about the application process
 
-We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
+We enthusiastically encourage people underrepresented in the worlds of technology and government to apply. We can only hire people legally allowed to work in the EU. We are not set up to facilitate visa processes.
+
 If you want to know more about the position, please get in touch with Elena Findley-de Regt at <elena@publiccode.net>.
 
 To apply for this position, please email us at <hr@publiccode.net>.

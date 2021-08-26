@@ -3,7 +3,7 @@
 The [Standard for Public Code](https://standard.publiccode.net/) gives public organizations a model for building their own open source solutions to enable successful future reuse by similar public organizations in other places.
 It includes guidance for policy makers, city administrators, developers and vendors.
 
-The [codebases in stewardship](/codebases) in stewardship by the Foundation for Public Code have chosen to apply the Standard to their own work.
+The [codebases in stewardship](/codebases) with the Foundation for Public Code have chosen to apply the Standard to their own work.
 
 The Standard is recognized as a [Digital Public Good](https://digitalpublicgoods.net/registry/standard-for-public-code.html) by the [Digital Public Goods Alliance](https://digitalpublicgoods.net).
 

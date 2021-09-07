@@ -9,7 +9,7 @@ The Standard is recognized as a [Digital Public Good](https://digitalpublicgoods
 
 The CITYxCITY Academy has a [free online course](https://citybycity.academy/course/standards-for-smart-cities) covering the Standard for Public Code.
 
-[![Thumbnail for the video on the Standard for Public Code: a printed version lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
+[![Thumbnail for the video on the Standard for Public Code: a printed version lying on a table between two hands](/photos/standard/thestandard_posterframe_v02.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
 
 >[A video introduction to Standard for Public Code (4:12) on YouTube](https://www.youtube.com/watch?v=QWt6vB-cipE)
 

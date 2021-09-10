@@ -70,7 +70,7 @@ I want to be able to understand the impact of my donation /
 So that I know what’s changed as a result
 
 As a journalist / 
-I want have great source material about public code / 
+I want to have great source material about public code / 
 So that I can produce an engaging and impactful story
 
 ### Mid-priority

@@ -204,7 +204,7 @@ We have a bias toward the former, which are quick to create, low maintenance, an
 ### Basic process
 
 * Gather initial ideas and goals from team via workshops
-* Reference existing Github repos
+* Reference existing GitHub repos
 * Assemble product requirements
 * Create initial wireframes
 * Present to team, board and public 

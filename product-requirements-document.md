@@ -210,7 +210,7 @@ We have a bias toward the former, which are quick to create, low maintenance, an
 * Present to team, board and public 
 * Refine wires and socialize until quorum reached
 * Design and build site updates
-* Review code, communication and design via standard Github process
+* Review code, communication and design via standard GitHub process
 * Test hypotheses
 * Document
 * Iterate

@@ -1,3 +1,9 @@
+---
+redirect_from:
+    - /careers/communications-editor
+    - /careers/content-editor
+---
+
 # Careers
 
 Join us in enabling public-purpose software and policy that is open and collaborative.

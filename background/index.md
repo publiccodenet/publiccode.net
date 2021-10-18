@@ -8,7 +8,7 @@ Service delivery and governance already depend on software. In the future, even 
 
 Throughout public administrations, digital services now execute (and modify) policies that became legal code through democratic procedures. Software code has started to equal legal code, but without the corresponding democratic accountability.
 
-Software that runs our society today is often hidden in proprietary code bases, producing data not owned by the public, and licensed at ever-increasing cost from outside companies.
+Software that runs our society today is often hidden in proprietary codebases, producing data not owned by the public, and licensed at ever-increasing cost from outside companies.
 
 In contrast to this growing proliferation of 'black box' services, we define public code as both civic code (like policy or regulation) and computer source code (like software and algorithms) executed in a public context, by humans or machines. Because public code serves the public interest, we believe it should be open, legible, accountable, accessible and sustainable.
 

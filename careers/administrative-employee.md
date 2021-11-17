@@ -11,7 +11,7 @@ The Foundation for Public Code provides review of codebases that are in our stew
 We test against the Standard for Public Code to make codebases understandable, reusable and community based.
 Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-We need your help to build a reliable, professional and open non-profit and semi-governmental organization.
+We need your help to build a reliable, professional and open, non-profit and semi-governmental organization.
 
 ## What the administrative employee does
 

@@ -11,7 +11,7 @@ The Foundation for Public Code provides review of codebases that are in our stew
 We test against the Standard for Public Code to make codebases understandable, reusable and community based.
 Our standards are high, as well as opinionated, to ensure codebases can be trusted as the infrastructure of society and improve continually, and policy makers can keep technology and architectural choices open.
 
-We need your help to build a reliable, professional and open non-profit and semi-governmental organization.
+We need your help to build a reliable, professional and open, non-profit and semi-governmental organization.
 
 ## What the administrative employee does
 
@@ -82,7 +82,7 @@ This role is an administrative employee (scale 6) as defined in the [Functiegebo
 
 This is a part or full time role (20-40 hours/week) in our main offices in Amsterdam, the Netherlands. Assistance in relocation is possible.
 
-This is a one year contract, with an option to extend. Compensation is based on Scale 6 of the Dutch national government salary framework: €2224,82 to €2891,36.
+This is a one year contract, with an option to extend. Compensation is based on Scale 6 of the Dutch national government salary framework at €2224,82 excluding holiday pay and with generous paid vacation.
 
 We welcome more senior applicants, which could adjust the job description and scale.
 

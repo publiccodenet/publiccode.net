@@ -36,16 +36,16 @@ You should:
 This role is an administrative employee (scale 6) as defined in the [Functiegebouw Rijksoverheid](https://www.functiegebouwrijksoverheid.nl/functiegebouw/functiefamilies/bedrijfsvoering/medewerker-administratie) (the Dutch national government standardised role descriptions).
 
 > General Description:
-> 
+>
 > * Maintaining the administration(s)
 > * Acting as a support desk and front office
 > * administrative support and activities for primary or supporting organizational units
 > * generation of (management) information
 > * signaling and reporting of malfunctions and deviations in systems and applications and user support
 > * contacts aimed at providing information
-> 
+>
 > Managing administration(s) and/or administrative support activities:
-> 
+>
 > * Acting as a support desk and front office
 > * handling of requests
 > * providing information about procedures, forms and administrative and organizational processes
@@ -57,24 +57,24 @@ This role is an administrative employee (scale 6) as defined in the [Functiegebo
 > * Generating (management) overviews
 > * identifying and reporting malfunctions and deviations in relevant systems and applications
 > * Informing and supporting users
-> 
+>
 > Functional management/support of users:
-> 
+>
 > * internal administrative procedures and regulations
 > * assessing the approach, progress and completeness of the administration, the quality of the administrative data and the adequate support for users
 > * in the preparation, processing and resolution of administrative requests and in the delivery of data, choices are made about the manner of implementation and consequences are reasonably predictable
-> 
+>
 > Scope / Frameworks:
-> 
+>
 > * knowledge of general administrative procedures and regulations
 > * knowledge of regular documentation and archiving techniques
 > * understanding of functional relationships and relevant administrative processes within the organization
 > * skill in working with computerized systems
 > * proficiency in generating (management) information
 > * skill in the administrative processing and resolution of requests, administrative support and talking to employees and third parties.
-> 
+>
 > Knowledge & Skill:
-> 
+>
 > * Contacts are characterized by the exchange of administrative data and information
 > * Understanding execution and progress of the administrative work in order to explain, support and exchange information internally and externally
 

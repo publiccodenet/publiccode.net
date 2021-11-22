@@ -37,8 +37,8 @@ This role is an administrative employee (scale 6) as defined in the [Functiegebo
 
 > General Description:
 >
-> * Maintaining the administration(s)
-> * Acting as a support desk and front office
+> * maintaining the administration(s)
+> * acting as a support desk and front office
 > * administrative support and activities for primary or supporting organizational units
 > * generation of (management) information
 > * signaling and reporting of malfunctions and deviations in systems and applications and user support
@@ -46,17 +46,17 @@ This role is an administrative employee (scale 6) as defined in the [Functiegebo
 >
 > Managing administration(s) and/or administrative support activities:
 >
-> * Acting as a support desk and front office
+> * acting as a support desk and front office
 > * handling of requests
 > * providing information about procedures, forms and administrative and organizational processes
-> * Collecting, checking, registering and processing (or modifying) data
+> * collecting, checking, registering and processing (or modifying) data
 > * monitoring output, identifying problems and reporting
-> * Administrative preparation, monitoring progress, administrative execution and processing
+> * administrative preparation, monitoring progress, administrative execution and processing
 > * handling correspondence
-> * Creating and maintaining work files
-> * Generating (management) overviews
+> * creating and maintaining work files
+> * generating (management) overviews
 > * identifying and reporting malfunctions and deviations in relevant systems and applications
-> * Informing and supporting users
+> * informing and supporting users
 >
 > Functional management/support of users:
 >
@@ -75,8 +75,8 @@ This role is an administrative employee (scale 6) as defined in the [Functiegebo
 >
 > Knowledge & Skill:
 >
-> * Contacts are characterized by the exchange of administrative data and information
-> * Understanding execution and progress of the administrative work in order to explain, support and exchange information internally and externally
+> * contacts are characterized by the exchange of administrative data and information
+> * understanding execution and progress of the administrative work in order to explain, support and exchange information internally and externally
 
 ## More information about this position
 

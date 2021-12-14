@@ -49,7 +49,7 @@ If this doesn’t reflect your needs, please [raise an issue](https://github.com
 
 As an employee of a public organization interested in membership /
 I want to apply on behalf of my organization /
-So that we can be members
+So that we can be a member
 
 As an employee of a public organization curious about membership / I want to explain the benefits of public code and membership to my colleagues / So that I can persuade them that our organization should join
 

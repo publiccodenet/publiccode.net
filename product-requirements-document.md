@@ -137,7 +137,7 @@ Goals made possible by a more intrusive analytics package than [Plausible](https
 
 These are written in the format “To achieve this goal, we’ll try this intervention”. These are linked to the goals, but are not in priority order.
 
-A. To increase membership inquiries, we will showcase engagement by other (potential) members to lend us credibility, show testimonials from member orgs/codebases, and share success stories about codebases under stewardship.
+A. To increase membership inquiries, we will showcase engagement by other (potential) members to lend us credibility, show testimonials from member organizations and codebases, and share success stories about codebases under stewardship.
 
 B. To support reuse of codebases under stewardship by new public organizations, we will make it easy to find basic information about the codebases, their functionality, their community, their maturity level and their potential.
 

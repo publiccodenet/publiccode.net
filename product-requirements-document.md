@@ -83,7 +83,7 @@ So that I can decide if it’s relevant to my organization
 
 As an employee of a related non-governmental organization /
 I want to see high quality, meaningful work /
-So that I can rely on the Foundation for Public Code in my own work /
+So that I can rely on the Foundation for Public Code in my own work
 
 ### Lower priority
 

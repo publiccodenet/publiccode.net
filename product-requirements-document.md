@@ -24,7 +24,7 @@ Publiccode.net is our front door for the world. As such, it serves a variety of 
 
 ### Mid-priority
 
-* People at public organizations who want to learn more or understand
+* People at public organizations who want to learn more or understand what we do
 * People who work at related non-governmental organizations who want to work with us (like a think tank or academic research center)
 
 ### Lower priority

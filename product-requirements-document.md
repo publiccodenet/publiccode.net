@@ -238,7 +238,7 @@ We have a bias toward the former, which are quick to create, low maintenance, an
 * Future-looking (but not futuristic) and a bit timeless
 * Synthesis of digital (process), architectural (physical civic infrastructure), and organic (humanity), to reflect the work’s central medium in its physical and human contexts
 * Pops of color and purposeful photography of people and places can help bring it to life
-* Imprintable. A neutral/monochromatic design foundation enables others to see themselves, their orgs and communities in our work. Heavy branding can interfere with this.
+* Imprintable. A neutral/monochromatic design foundation enables others to see themselves, their organizations and communities in our work. Heavy branding can interfere with this.
 * Not: Generic, white-labelable
 * Intimacy at scale. Bridge the gap between human scale and civic/global implications.
 * Key elements can feature simple interactivity and animation, to bring the site subtly to life

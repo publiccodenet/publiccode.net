@@ -72,3 +72,7 @@ Together, we're a multidisciplinary team with years of experience in government 
 </li>
 {% endfor %}
 </ul>
+
+### Former team members
+
+Our former team members can be found [in this list](former-team-members.md).

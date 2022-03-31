@@ -10,7 +10,7 @@ on:
 #             │ │ │ │ │
 #             │ │ │ │ │
 #             * * * * *
-    - cron:  '* 1 * * *' # every day at 01:00 (UTC?)
+    - cron:  '4 1 * * *' # every day at 01:04 (UTC)
 
 defaults:
   run:
@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
       - run: bundle install

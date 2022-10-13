@@ -13,7 +13,7 @@ Leveraging 30 combined years of experience working with cities and technology-en
 
 Based on their experience of technological innovation in a traditional industry, Pieter van der Does and Arnout Schuijff (co-founders of the Adyen payments platform) agreed with Ben and Boris that public organizations deserved better software. They joined the Board of Directors to share their expertise and connections.
 
-The Foundation for Public Code is a member of the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) and a founding member of [OSPO Alliance](https://ospo.zone/)
+The Foundation for Public Code is a member of the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) and a founding member of [OSPO Alliance](https://ospo.zone/).
 
 [See our blog](https://blog.publiccode.net/) for what we're up to now.
 

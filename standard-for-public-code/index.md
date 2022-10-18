@@ -1,6 +1,6 @@
 # The Standard for Public Code
 
-The [Standard for Public Code](https://standard.publiccode.net/) gives public organizations a model for building their own open source solutions to enable successful future reuse by similar public organizations in other places.
+The [Standard for Public Code](https://standard.publiccode.net/) gives public organizations a model for preparing open source solutions to enable collaborations with similar public organizations in other places.
 It includes guidance for policy makers, city administrators, developers and vendors.
 
 [All codebases in stewardship](/codebases) with the Foundation for Public Code have chosen to apply the Standard to their own work.

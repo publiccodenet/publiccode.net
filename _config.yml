@@ -13,10 +13,11 @@ toc: true
 # Include well known file needed for matrix / riot.im service discovery
 include:
   - .well-known
+  - OSPO.md
 
-plugins: 
+plugins:
   - jekyll-redirect-from
-  
+
 defaults:
   -
     scope:

@@ -10,7 +10,7 @@ If your open source progam office (OSPO) or organization is planning to:
 
 * open up one of your codebases for other people to reuse and contribute to
 * use an existing codebase to the extent that it becomes important to your organization, and you'd like to participate in its governance
-* contribute your work back into a codebase (upstream) 
+* contribute your work back into a codebase (upstream)
 * work with third parties (especially vendors) to do any of the above
 
 Then we can help you, your organization's staff, and (potentially) the wider codebase community:

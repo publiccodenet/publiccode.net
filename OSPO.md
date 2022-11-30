@@ -23,7 +23,7 @@ Email us at <info@publiccode.net> to start the discussion.
 
 ## Getting started with a government OSPO
 
-If you're looking for more general OSPO advice or government digital transformation tips, we recommend:
+If you're looking for more general OSPO advice or government digital transformation guidance, we recommend:
 
 * [The OSPO – A new tool for digital government](https://openforumeurope.org/publications/the-ospo-a-new-tool-for-digital-government/) by Open Forum Europe and the OSPO Alliance
 * [OSPO.zone](https://ospo.zone/) by the OSPO Alliance (we're a founding member)

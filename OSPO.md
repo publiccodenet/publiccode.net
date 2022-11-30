@@ -2,7 +2,7 @@
 type: Resource
 ---
 
-# Government Open Source Programme Offices: let's work together
+# Government OSPOs: let's work together
 
 We help people collaborate on public code. Our focus is on the communities around a given codebase.
 

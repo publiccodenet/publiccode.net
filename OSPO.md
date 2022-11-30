@@ -15,7 +15,7 @@ If your open source progam office (OSPO) or organization is planning to:
 
 Then we can help you, your organization's staff, and (potentially) the wider codebase community:
 
-* [clarify and improve governance around the codebase](activities/supporting-codebase-governance/index.md)
+* [clarify and improve governance around the codebase](https://about.publiccode.net/activities/supporting-codebase-governance/)
 * [develop good working practices that make collaboration easier and improve the quality of the codebase](https://standard.publiccode.net)
 * [work on the communication, culture change and organizational values that come with collaboration in the open](https://publiccode.net/codebase-stewardship)
 

@@ -2,6 +2,10 @@
 
 This website is the homepage for the Foundation for Public Code. It is where we introduce and explain ourselves to the outside world, and invite readers into all the content that the Foundation for Public Code has to offer.
 
+[![Pages-build-deployment](https://github.com/publiccodenet/publiccode.net/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/publiccode.net/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/publiccodenet/publiccode.net/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/publiccode.net/actions/workflows/test.yml)
+[![Scheduled link check](https://github.com/publiccodenet/publiccode.net/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/publiccode.net/actions/workflows/link-check.yml)
+
 ## Installing
 
 This site is made for GitHub pages and thus runs their Jekyll install.

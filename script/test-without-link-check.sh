@@ -1,33 +1,33 @@
 #!/usr/bin/env bash
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
+
+# This script is referenced by .github/workflows/test.yml which executes on
+# each pull request.
+
+# As part of reviewing a contribution, reviewers are responsible for checking
+# that html is valid and conforms to the repository guidelines. This script is
+# intended to aid in that process.
+
 set -e # halt script on error
 
-# Lint markdown using the Markdownlint gem with the default ruleset except for:
-# MD007 Unordered list indentation: we allow sub-lists to also have bullets
-# MD013 Line length: we allow long lines
-# MD029 Ordered list item prefix: we allow lists to be sequentially numbered
-#
-# Additionally, we have these violations which should be resolved:
-# MD026 Trailing punctuation in header
-# MD032 Lists should be surrounded by blank lines
-# MD033 Inline HTML
-# MD034 Bare URL used
-#
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD032,~MD034,~MD033 -i -g '.'
+# if PAGES_REPO_NWO is not set then default to publiccodenet/publiccode.net
+# (jekyll defaults to "origin" if a remote of that name exists,
+# which makes sense for a true fork, but not for most contributors)
+if [ "_${PAGES_REPO_NWO}_" == "__" ]; then
+export PAGES_REPO_NWO=publiccodenet/publiccode.net
+fi
 
 # Build the site
 bundle exec jekyll build
 
-# Check for broken links and missing alt tags:
-# jekyll does not require extentions like HTML
-# run only "ScriptCheck" and "ImageCheck"; skip "LinkCheck"
-# set an extra long timout for test-servers with poor connectivity
-# ignore request rate limit errors (HTTP 429)
-# using the files in Jekylls build folder
+# Check for broken links and missing alt tags
+# ignoring external links
+# ignoring our special "#_" close button links
+# jekyll does not require extensions like .html
+# using the files in Jekyll's build folder
 bundle exec htmlproofer \
+    --disable-external \
+    --url-ignore '/^#_$/' \
     --assume-extension \
-    --checks-to-ignore LinkCheck \
-    --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429" \
     ./_site

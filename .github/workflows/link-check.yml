@@ -27,4 +27,6 @@ jobs:
         with:
           ruby-version: '2.7'
       - run: bundle install
+      - run: ./script/find-missing-spdx.sh
+      - run: ./script/test-markdown.sh
       - run: ./script/test-with-link-check.sh

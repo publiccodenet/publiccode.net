@@ -26,3 +26,9 @@ And running the local server:
 ## Redirected URLs
 
 All the redirected URLs are with their permalink in the `redirects` folder to keep them together.
+
+## Testing
+
+To run the tests:
+
+> script/test.sh

@@ -18,4 +18,7 @@ jobs:
         with:
           ruby-version: '2.7'
       - run: bundle install
-      - run: ./script/cibuild.sh
+      - run: ./script/find-missing-spdx.sh
+      - run: ./script/test-markdown.sh
+      - run: ./script/test-without-link-check.sh
+      - run: ./script/check-new-links.sh

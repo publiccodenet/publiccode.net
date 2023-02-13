@@ -5,3 +5,5 @@ _site/
 .jekyll-metadata
 bower_components/
 Gemfile.lock
+.bundle
+vendor/

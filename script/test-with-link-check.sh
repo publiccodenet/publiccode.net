@@ -1,31 +1,53 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>
+
+# This script is referenced by .github/workflows/link-check.yml which
+# executes daily.
+
+# Failures reported by this script are addressed on a case-by-case basis.
+
 set -e # halt script on error
 
-# Lint markdown using the Markdownlint gem with the default ruleset except for:
-# MD007 Unordered list indentation: we allow sub-lists to also have bullets
-# MD013 Line length: we allow long lines
-# MD029 Ordered list item prefix: we allow lists to be sequentially numbered
-#
-# Additionally, we have these violations which should be resolved:
-# MD026 Trailing punctuation in header
-# MD032 Lists should be surrounded by blank lines
-# MD033 Inline HTML
-# MD034 Bare URL used
-#
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD026,~MD032,~MD034,~MD033 -i -g '.'
+# if PAGES_REPO_NWO is not set then default to publiccodenet/standard
+# (jekyll defaults to "origin" if a remote of that name exists,
+# which makes sense for a true fork, but not for most contributors)
+if [ "_${PAGES_REPO_NWO}_" == "__" ]; then
+export PAGES_REPO_NWO=publiccodenet/publiccode.net
+fi
 
 # Build the site
 bundle exec jekyll build
 
-# Check for broken links and missing alt tags:
-# jekyll does not require extentions like HTML
-# ignore edit links to GitHub as they might not exist yet
-# set an extra long timout for test-servers with poor connectivity
+# bundle exec htmlproofer --help | grep url-ignore
+#  --url-ignore link1,[link2,...]  A comma-separated list of
+#    Strings or RegExps containing URLs that are safe to ignore.
+# * github.com/foo/edit/ : may reference yet-to-exist pages
+# * docs.github.com/en : blocked by github DDoS protection
+# * plausible.io/js/plausible.js : does not serve to scripts
+# * twitter : grrr
+# * 127.0.0.1 : localhost does not need to be checked
+# * #_$ : our special anchor
+#
+URL_IGNORE_REGEXES="\
+/github\.com\/.*\/edit\//\
+,/docs\.github\.com\/en\//\
+,/plausible\.io\/js\/plausible\.js/\
+,/twitter\.com/\
+,/127\.0\.0\.1:/\
+,/^#_$/\
+"
+
 # ignore request rate limit errors (HTTP 429)
-# using the files in Jekylls build folder
+# --http_status_ignore "429" \
+
+# Check for broken links and missing alt tags:
+# jekyll does not require extensions like .html
+# ignoring problem urls (see above)
+# set an extra long timout for test-servers with poor connectivity
+# using the files in Jekyll's build folder
 bundle exec htmlproofer \
     --assume-extension \
-    --url-ignore '/github.com/(.*)/edit/,/twitter\.com/,/^#_$/' \
+    --url-ignore $URL_IGNORE_REGEXES \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429" \
     ./_site

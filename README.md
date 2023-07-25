@@ -32,3 +32,7 @@ All the redirected URLs are with their permalink in the `redirects` folder to ke
 To run the tests:
 
 > script/test.sh
+
+## Statistics
+
+We use [Plausible](https://about.publiccode.net/activities/tool-management/plausible-analytics.html) for statistics, and they can be viewed at [plausible.io/publiccode.net](https://plausible.io/publiccode.net).

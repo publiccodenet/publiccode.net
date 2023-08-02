@@ -12,6 +12,8 @@ redirect_from:
     - /who-we-are/team/laura-scheske
     - /team/deborah-meibergen
     - /who-we-are/team/deborah-meibergen
+    - /team/boris-van-hoytema
+    - /who-we-are/boris-van-hoytema
 ---
 
 # Former team members
@@ -23,5 +25,6 @@ These are our former team members:
 * Alba Roza (2020-2021)
 * Laura Scheske (2020-2021)
 * Felix Faaseen (2020-2021)
+* Boris van Hoytema (2019-2023)
 
 You can find [our current team here](index.md).

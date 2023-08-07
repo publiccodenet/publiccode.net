@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
-set -e # halt script on error
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
 
-# Build the site
-bundle exec jekyll build
+# This script is provided for local development,
+# it is not used by continuous integration
 
-# Check for broken links and missing alt tags, ignoring all links matching
-# the regular expression patterns:
-#  containing "github.com" as they might not exist yet
-#  containing "twitter.com" because twitter is broken
-#  exactly "#_" (anchored by begin of line and end of line)
-# See also:
-#  https://ruby-doc.org/core-2.7.1/Regexp.html
-#  https://github.com/gjtorikian/html-proofer/blob/main/README.md
+# $ help set
+#      -e  Exit immediately if a command exits with a non-zero status.
+#      -x  Print commands and their arguments as they are executed.
+set -x
+set -e
 
-bundle exec htmlproofer \
-    --url-ignore '/github\.com/,/twitter\.com/,/^#_$/' \
-    ./_site
+./script/find-missing-spdx.sh
+./script/test-markdown.sh
+./script/test-without-link-check.sh
+./script/check-new-links.sh
+./script/test-with-link-check.sh

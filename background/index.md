@@ -1,5 +1,8 @@
 # Background: an introduction to the Foundation for Public Code
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net> -->
+
 In the 21st century, software can be considered vital public infrastructure. From municipal parking services to public school administration, from databases in the cloud to smartphone apps for citizens, software has become fundamental to how public organizations function.
 
 Service delivery and governance already depend on software. In the future, even more aspects of city administration will be enabled by software (for example, regional traffic management systems coordinating self-driving vehicles).

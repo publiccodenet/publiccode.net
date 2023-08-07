@@ -1,4 +1,6 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>
 type: Position
 excerpt: Provide answers to questions about usage, contributing, procurement and more (Full time, Amsterdam)
 ---
@@ -59,7 +61,7 @@ This is a one year contract, with an option to extend. Compensation is competiti
 ## More about the application process
 
 We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
-If you want to know more about the position, please get in touch with Boris van Hoytema at boris@publiccode.net or +31 20 2 444 555.
+If you want to know more about the position, please email us at info@publiccode.net.
 
 To apply for this position, please email us at hr@publiccode.net.
 

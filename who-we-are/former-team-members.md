@@ -1,15 +1,19 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
 toc: false
 layout: default
 redirect_from:
-    - https://publiccode.net/team/alba-roza.html
-    - https://publiccode.net/who-we-are/team/alba-roza.html
-    - https://publiccode.net/team/felix-faaseen.html
-    - https://publiccode.net/who-we-are/team/felix-faaseen.html
-    - https://publiccode.net/team/laura-scheske.html
-    - https://publiccode.net/who-we-are/team/laura-scheske.html
-    - https://publiccode.net/team/deborah-meibergen.html
-    - https://publiccode.net/who-we-are/team/deborah-meibergen.html
+    - /team/alba-roza
+    - /who-we-are/team/alba-roza
+    - /team/felix-faaseen
+    - /who-we-are/team/felix-faaseen
+    - /team/laura-scheske
+    - /who-we-are/team/laura-scheske
+    - /team/deborah-meibergen
+    - /who-we-are/team/deborah-meibergen
+    - /team/boris-van-hoytema
+    - /who-we-are/boris-van-hoytema
 ---
 
 # Former team members
@@ -21,5 +25,6 @@ These are our former team members:
 * Alba Roza (2020-2021)
 * Laura Scheske (2020-2021)
 * Felix Faaseen (2020-2021)
+* Boris van Hoytema (2019-2023)
 
 You can find [our current team here](index.md).

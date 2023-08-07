@@ -1,6 +1,13 @@
 # Homepage at [publiccode.net](https://publiccode.net)
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net> -->
+
 This website is the homepage for the Foundation for Public Code. It is where we introduce and explain ourselves to the outside world, and invite readers into all the content that the Foundation for Public Code has to offer.
+
+[![Pages-build-deployment](https://github.com/publiccodenet/publiccode.net/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/publiccode.net/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/publiccodenet/publiccode.net/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/publiccode.net/actions/workflows/test.yml)
+[![Scheduled link check](https://github.com/publiccodenet/publiccode.net/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/publiccode.net/actions/workflows/link-check.yml)
 
 ## Installing
 
@@ -19,3 +26,13 @@ And running the local server:
 ## Redirected URLs
 
 All the redirected URLs are with their permalink in the `redirects` folder to keep them together.
+
+## Testing
+
+To run the tests:
+
+> script/test.sh
+
+## Statistics
+
+We use [Plausible](https://about.publiccode.net/activities/tool-management/plausible-analytics.html) for statistics, and they can be viewed at [plausible.io/publiccode.net](https://plausible.io/publiccode.net).

@@ -4,7 +4,7 @@ image: max-carlson.jpeg
 
 ---
 
-Max is the Code Steward for the Foundation for Public Code North America.
+Max is the Codebase Steward for the Foundation for Public Code North America.
 
 He brings extensive Silicon Valley leadership and engineering expertise from organizations including GovStack (as CTO he founded and grew the project to hundreds of contributors), Samsung (where he led a user experience research lab), Cloud 9 (as interim CTO), Nest Labs (where he built many core systems for the largest commercial IOT network), and as a co-founder at Laszlo Systems, sponsor of OpenLaszlo. 
 

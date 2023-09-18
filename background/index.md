@@ -46,10 +46,6 @@ Codebase stewardship consists of:
 
 We created the [Standard for Public Code](https://standard.publiccode.net/) to set the bar for public code quality - it provides concrete standards and best practice for how to make public code reusable, maintainable, findable and procurable.
 
-## Membership of the Foundation for Public Code
-
-The Foundation for Public Code is a member-owned association, based in Amsterdam. Only wholly publicly owned organizations qualify for membership. In our first years, we're focusing on Europe but plan to open membership internationally by 2021.
-
 ## Join us
 
 Founded in 2019, we're growing our movement every day! [Tell us how you'll fit in to our community](https://about.publiccode.net/CONTRIBUTING.html).

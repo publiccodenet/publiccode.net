@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2018-2023 The Foundation for Public Code <info@publiccode.net>
 type: Bio
-role: Coordinator codebase stewardship and member development
+role: Coordinator codebase stewardship and community development
 image: claus-mullie.jpg
 redirect_from:
     - team/claus-mullie
@@ -10,7 +10,7 @@ redirect_from:
 
 # Claus Mullie
 
-As a coordinator, Claus both enables our team of stewards in delivering codebase stewardship, as well as supports our members with onboarding and policy.
+As a coordinator, Claus enables our team of stewards in delivering codebase stewardship.
 
 Claus is fascinated by governance in large-scale complex systems, particularly at the intersection between government innovation, infrastructure, international relations and industrial policy.
 

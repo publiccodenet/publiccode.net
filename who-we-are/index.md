@@ -5,6 +5,8 @@ toc: false
 layout: default
 redirect_from:
     - team/index
+    - membership/founding-membership
+    - membership/index
 ---
 
 # Meet us

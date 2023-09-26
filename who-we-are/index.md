@@ -23,7 +23,7 @@ We do this by:
 
 Ben Cerveny, Boris van Hoytema and Arnout Schuijff established the Foundation in 2019, based on their realization that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation. We were founded in Amsterdam, with the aim to operate globally.
 
-In 2022, we launched the Foundation for Public Code North America, to support growing interest in collaborative software there.
+In 2022, we launched the Foundation for Public Code North America, to support growing interest in collaborative software in that region.
 
 The Foundation for Public Code is a member of the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) and a founding member of [OSPO Alliance](https://ospo.zone/).
 

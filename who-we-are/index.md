@@ -13,7 +13,13 @@ redirect_from:
 
 The Foundation for Public Code is a non-profit association whose mission is 'to enable public-purpose software and policy that is open and collaborative.'
 
-We do this by stewarding to public purpose, open source codebases, as well as sharing expertise, offering training and creating tools to make it easier for public organizations to build and maintain software together.
+We do this by:
+
+* stewarding public purpose, open source codebases
+* sharing our industry-leading expertise
+* offering tailored training for public organizations
+* developing tools to make it easier for public organizations to build and maintain software together
+* facilitating collaborative software development and maintenance for public organizations
 
 Ben Cerveny, Boris van Hoytema and Arnout Schuijff founded the Foundation in 2019 in Amsterdam, based on their realization that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation.
 

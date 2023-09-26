@@ -13,7 +13,7 @@ Come help the makers of open source software for public use – such as governme
 
 As a codebase steward for community you work together with the community to build communities around codebases. This means you will:
 
-- build and maintain healthy communities by connecting members and organizing events
+- build and maintain healthy communities by connecting people and organizing events
 - continually develop our processes and tools for community management
 
 If you enjoy connecting a wide variety of passionate technologists and stakeholders that work for the public good with meaningful interactions as well as believe in open source as a collaboration method, this job is for you.
@@ -49,7 +49,7 @@ This is a one year contract, with an option to extend. Compensation is competiti
 
 We enthusiastically encourage people underrepresented in the worlds of technology and government to apply.
 
-If you want to know more about the position, please get in touch with Boris van Hoytema at boris@publiccode.net or +31 20 2 444 555.
+If you want to know more about the position, please email us at info@publiccode.net.
 
 To apply to this position, please email us at hr@publiccode.net with a short motivation and a resume or a short explanation of relevant work experience.
 

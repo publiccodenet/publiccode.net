@@ -5,15 +5,25 @@ toc: false
 layout: default
 redirect_from:
     - team/index
+    - membership/founding-membership
+    - membership/index
 ---
 
 # Meet us
 
-The Foundation for Public Code was founded by Ben Cerveny, Boris van Hoytema and Arnout Schuijff in 2019 to guide international collaboration among public organizations around codebase design, quality and governance.
+The Foundation for Public Code is a non-profit association whose mission is 'to enable public-purpose software and policy that is open and collaborative.'
 
-Leveraging 30 combined years of experience working with cities and technology-enabled collaboration, Boris and Ben recognized policy and whitepapers were ineffective catalysts in this space. Their landscape analysis revealed that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation.
+We do this by:
 
-Based on their experience of technological innovation in a traditional industry, Pieter van der Does and Arnout Schuijff (co-founders of the Adyen payments platform) agreed with Ben and Boris that public organizations deserved better software. They joined the Board of Directors to share their expertise and connections.
+* stewarding public purpose, open source codebases
+* sharing our industry-leading expertise
+* offering tailored training for public organizations
+* developing tools to make it easier for public organizations to build and maintain software together
+* facilitating collaborative software development and maintenance for public organizations
+
+Ben Cerveny, Boris van Hoytema and Arnout Schuijff established the Foundation in 2019, based on their realization that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation. We were founded in Amsterdam, with the aim to operate globally.
+
+In 2022, we launched the Foundation for Public Code North America, to support growing interest in collaborative software in that region.
 
 The Foundation for Public Code is a member of the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) and a founding member of [OSPO Alliance](https://ospo.zone/).
 

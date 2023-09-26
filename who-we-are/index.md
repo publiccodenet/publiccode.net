@@ -21,7 +21,7 @@ We do this by:
 * developing tools to make it easier for public organizations to build and maintain software together
 * facilitating collaborative software development and maintenance for public organizations
 
-Ben Cerveny, Boris van Hoytema and Arnout Schuijff founded the Foundation in 2019, based on their realization that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation. We were founded  in Amsterdam, with and aim to operate globally. 
+Ben Cerveny, Boris van Hoytema and Arnout Schuijff established the Foundation in 2019, based on their realization that stewardship was the key to converting the massive public investment in open source and collaboration into long-term, sustainable implementation. We were founded in Amsterdam, with the aim to operate globally.
 
 In 2022, we launched the Foundation for Public Code North America, to support growing interest in collaborative software there.
 

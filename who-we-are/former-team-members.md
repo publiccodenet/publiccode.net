@@ -13,7 +13,7 @@ redirect_from:
     - /team/deborah-meibergen
     - /who-we-are/team/deborah-meibergen
     - /team/boris-van-hoytema
-    - /who-we-are/boris-van-hoytema
+    - /who-we-are/team/boris-van-hoytema
 ---
 
 # Former team members

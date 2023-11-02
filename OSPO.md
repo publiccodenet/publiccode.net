@@ -2,9 +2,6 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>
 type: Resource
-redirect_from:
-    - /ospo
-    - /ospos
 ---
 
 # Government OSPOs: let's work together

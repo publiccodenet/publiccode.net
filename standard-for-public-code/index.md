@@ -45,7 +45,7 @@ If codebases have been completely audited from the first merge request they can 
 
 If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code will not be automatically certified.
 By auditing every new merge request the codebase can move incrementally towards being completely certified.
-The codebase stewards can also do a complete audit of a codebase, at the current commit, and start applying the process from then to ensure that a codebase stays certified.
+The codebase stewards can also do a complete audit of a codebase, at the current commit, and start applying the process from then on to ensure that a codebase stays certified.
 
 ## The goals for the Standard for Public Code
 

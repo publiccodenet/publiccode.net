@@ -4,6 +4,7 @@
 type: Bio
 role: Codebase steward, North America
 image: max-carlson.jpeg
+email: max@publiccode.net
 ---
 
 # Max Carlson

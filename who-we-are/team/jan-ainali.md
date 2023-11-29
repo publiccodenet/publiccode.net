@@ -4,6 +4,7 @@
 type: Bio
 role: Codebase steward
 image: jan-ainali.jpg
+email: jan@publiccode.net
 redirect_from:
     - team/jan-ainali
 ---

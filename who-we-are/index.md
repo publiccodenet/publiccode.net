@@ -83,6 +83,7 @@ Together, we're a multidisciplinary team with years of experience in government 
     </a>
     <h3><a href="{{bio.url}}">{{ bio.title }}</a></h3>
     <p>{{ bio.role }}</p>
+    <p>{{ bio.email }}</p>
 </li>
 {% endfor %}
 </ul>

@@ -18,13 +18,15 @@ The CITYxCITY Academy has a [free online course](https://citybycity.academy/cour
 
 ## Standard compliance or certification process
 
-The Foundation for Public Code ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code.
+The Foundation for Public Code ensures that codebases under its stewardship are compliant with the Standard for Public Code.
 This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
 
 The audit performed by the Foundation for Public Code is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations.
 Things meant for humans are impossible for machines to test, like whether documentation is actually understandable and accessible in context, the commit messages make sense, and community guidelines are being followed.
 
 The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by the Foundation for Public Code and the standards set out in the codebase itself.
+
+[See the full stewardship lifecycle.](https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram.html)
 
 ### How the process works
 

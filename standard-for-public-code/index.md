@@ -26,6 +26,8 @@ Things meant for humans are impossible for machines to test, like whether docume
 
 The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by the Foundation for Public Code and the standards set out in the codebase itself.
 
+[See the full stewardship lifecycle.](https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram.html)
+
 ### How the process works
 
 Every time a contribution is suggested to a codebase, for example through a merge request, the [codebase stewards](https://about.publiccode.net/roles/) of the Foundation for Public Code will audit the contribution for compliance with the Standard for Public Code.

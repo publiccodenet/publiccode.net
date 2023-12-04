@@ -4,6 +4,7 @@
 type: Bio
 role: Storytelling strategist
 image: kehinde-bademosi.jpg
+email: kehinde@publiccode.net
 ---
 
 # Kehinde Bademosi

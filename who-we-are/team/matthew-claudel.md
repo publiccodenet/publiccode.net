@@ -4,6 +4,7 @@
 type: Bio
 role: Strategy, North America
 image: matthew-claudel.png
+email: matthew@publiccode.net
 ---
 
 # Matthew Claudel

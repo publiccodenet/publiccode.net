@@ -4,6 +4,7 @@
 type: Bio
 role: Coordinator codebase stewardship and community development
 image: claus-mullie.jpg
+email: claus@publiccode.net
 redirect_from:
     - team/claus-mullie
 ---

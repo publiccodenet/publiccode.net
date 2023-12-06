@@ -3,7 +3,7 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net> -->
 
-The Foundation for Public Code ensures that codebases under its stewardship are compliant with the Standard for Public Code.
+The Foundation for Public Code can audit your codebase and community to verify if you are compliant with the Standard for Public Code.
 This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
 
 The audit performed by the Foundation for Public Code is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations.

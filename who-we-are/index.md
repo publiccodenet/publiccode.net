@@ -27,6 +27,9 @@ In 2022, we launched the Foundation for Public Code North America, to support gr
 
 The Foundation for Public Code is a member of the [Digital Public Goods Alliance](https://digitalpublicgoods.net/) and a founding member of [OSPO Alliance](https://ospo.zone/).
 
+![DPGA logo](../images/DPGA.png){:height="100px"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![OSPO alliance logo](../images/OSPO-Alliance.svg){:height="100px"}
+
 [See our blog](https://blog.publiccode.net/) for what we're up to now.
 
 ## The team

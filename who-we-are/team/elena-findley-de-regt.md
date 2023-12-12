@@ -4,6 +4,7 @@
 type: Bio
 role: Coordinator communications
 image: elena-findley-de-regt.jpg
+email: elena@publiccode.net
 redirect_from:
     - team/elena-findley-de-regt
 ---

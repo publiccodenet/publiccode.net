@@ -4,6 +4,7 @@
 type: Bio
 role: President
 image: ben-cerveny.jpg
+email: ben@publiccode.net
 redirect_from:
     - team/ben-cerveny
 

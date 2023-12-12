@@ -4,6 +4,7 @@
 type: Bio
 role: Operations, North America
 image: amy-darling.jpg
+email: amy@publiccode.net
 ---
 
 # Amy Darling

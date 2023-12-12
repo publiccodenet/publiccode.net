@@ -4,6 +4,7 @@
 type: Bio
 role: Lead codebase steward
 image: eric-herman.jpg
+email: eric@publiccode.net
 redirect_from:
     - team/eric-herman
 ---

@@ -19,7 +19,7 @@ The CITYxCITY Academy has a [free online course](https://citybycity.academy/cour
 ## Standard compliance and certification
 
 The Foundation for Public Code ensures that codebases under its stewardship are compliant with the Standard for Public Code.
-It can also assess public code codebases not in stewardship if the codebase community is committed to be compliant with the Standard for Public Code.
+We can also assess public code codebases not in stewardship if the codebase community is committed to becoming compliant with the Standard for Public Code.
 
 If you are interested in this, check out the [process for certification](certification.md).
 

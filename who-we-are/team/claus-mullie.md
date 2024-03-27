@@ -22,3 +22,4 @@ Previously, Claus was community and project manager for the [SCORE community](ht
 Claus holds an MSc in Urbanisation and Development from the London School of Economics and Political Science and a BSc in Politics and International Relations from the University of Manchester.
 
 * [GitHub](https://github.com/clausmullie)
+

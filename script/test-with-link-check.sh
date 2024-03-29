@@ -26,6 +26,7 @@ bundle exec jekyll build
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
 # * twitter : grrr
+# * linkedin.com : "999 No error"
 # * 127.0.0.1 : localhost does not need to be checked
 # * #_$ : our special anchor
 #
@@ -34,6 +35,7 @@ URL_IGNORE_REGEXES="\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
 ,/twitter\.com/\
+,/linkedin\.com/\
 ,/127\.0\.0\.1:/\
 ,/^#_$/\
 "
